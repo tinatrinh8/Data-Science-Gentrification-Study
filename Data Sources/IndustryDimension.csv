@@ -1,0 +1,1093 @@
+Industry,Ward_ID,Population,Year
+All industry categories,Toronto,1437540,2016
+"Agriculture, forestry, fishing and hunting",Toronto,2090,2016
+"Mining, quarrying, and oil and gas extraction",Toronto,2045,2016
+Utilities,Toronto,5915,2016
+Construction,Toronto,76475,2016
+Manufacturing,Toronto,105285,2016
+Wholesale trade,Toronto,50120,2016
+Retail trade,Toronto,141540,2016
+Transportation and warehousing,Toronto,57910,2016
+Information and cultural industries,Toronto,61350,2016
+Finance and insurance,Toronto,120005,2016
+Real estate and rental and leasing,Toronto,39935,2016
+"Professional, scientific and technical services",Toronto,175685,2016
+Management of companies and enterprises,Toronto,4085,2016
+"Administrative and support, waste management and remediation services",Toronto,78885,2016
+Educational services,Toronto,110280,2016
+Health care and social assistance,Toronto,143250,2016
+"Arts, entertainment and recreation",Toronto,34995,2016
+Accommodation and food services,Toronto,106910,2016
+Other services (except public administration),Toronto,67390,2016
+Public administration,Toronto,53390,2016
+All industry categories,Ward 1,54890,2016
+"Agriculture, forestry, fishing and hunting",Ward 1,75,2016
+"Mining, quarrying, and oil and gas extraction",Ward 1,35,2016
+Utilities,Ward 1,150,2016
+Construction,Ward 1,3835,2016
+Manufacturing,Ward 1,8315,2016
+Wholesale trade,Ward 1,2290,2016
+Retail trade,Ward 1,6455,2016
+Transportation and warehousing,Ward 1,5190,2016
+Information and cultural industries,Ward 1,1225,2016
+Finance and insurance,Ward 1,2290,2016
+Real estate and rental and leasing,Ward 1,955,2016
+"Professional, scientific and technical services",Ward 1,2895,2016
+Management of companies and enterprises,Ward 1,75,2016
+"Administrative and support, waste management and remediation services",Ward 1,4265,2016
+Educational services,Ward 1,2740,2016
+Health care and social assistance,Ward 1,5410,2016
+"Arts, entertainment and recreation",Ward 1,960,2016
+Accommodation and food services,Ward 1,3985,2016
+Other services (except public administration),Ward 1,2275,2016
+Public administration,Ward 1,1465,2016
+All industry categories,Ward 2,60435,2016
+"Agriculture, forestry, fishing and hunting",Ward 2,95,2016
+"Mining, quarrying, and oil and gas extraction",Ward 2,55,2016
+Utilities,Ward 2,305,2016
+Construction,Ward 2,4625,2016
+Manufacturing,Ward 2,4555,2016
+Wholesale trade,Ward 2,2750,2016
+Retail trade,Ward 2,6110,2016
+Transportation and warehousing,Ward 2,3335,2016
+Information and cultural industries,Ward 2,1630,2016
+Finance and insurance,Ward 2,4675,2016
+Real estate and rental and leasing,Ward 2,1800,2016
+"Professional, scientific and technical services",Ward 2,6645,2016
+Management of companies and enterprises,Ward 2,190,2016
+"Administrative and support, waste management and remediation services",Ward 2,3095,2016
+Educational services,Ward 2,5250,2016
+Health care and social assistance,Ward 2,5520,2016
+"Arts, entertainment and recreation",Ward 2,1390,2016
+Accommodation and food services,Ward 2,3120,2016
+Other services (except public administration),Ward 2,2635,2016
+Public administration,Ward 2,2640,2016
+All industry categories,Ward 3,74425,2016
+"Agriculture, forestry, fishing and hunting",Ward 3,155,2016
+"Mining, quarrying, and oil and gas extraction",Ward 3,135,2016
+Utilities,Ward 3,335,2016
+Construction,Ward 3,4895,2016
+Manufacturing,Ward 3,5180,2016
+Wholesale trade,Ward 3,3550,2016
+Retail trade,Ward 3,7150,2016
+Transportation and warehousing,Ward 3,3800,2016
+Information and cultural industries,Ward 3,2990,2016
+Finance and insurance,Ward 3,6000,2016
+Real estate and rental and leasing,Ward 3,2275,2016
+"Professional, scientific and technical services",Ward 3,9435,2016
+Management of companies and enterprises,Ward 3,220,2016
+"Administrative and support, waste management and remediation services",Ward 3,3690,2016
+Educational services,Ward 3,5645,2016
+Health care and social assistance,Ward 3,6515,2016
+"Arts, entertainment and recreation",Ward 3,1680,2016
+Accommodation and food services,Ward 3,4360,2016
+Other services (except public administration),Ward 3,3045,2016
+Public administration,Ward 3,3355,2016
+All industry categories,Ward 4,63570,2016
+"Agriculture, forestry, fishing and hunting",Ward 4,110,2016
+"Mining, quarrying, and oil and gas extraction",Ward 4,80,2016
+Utilities,Ward 4,285,2016
+Construction,Ward 4,2675,2016
+Manufacturing,Ward 4,2945,2016
+Wholesale trade,Ward 4,2040,2016
+Retail trade,Ward 4,5280,2016
+Transportation and warehousing,Ward 4,1990,2016
+Information and cultural industries,Ward 4,4370,2016
+Finance and insurance,Ward 4,4345,2016
+Real estate and rental and leasing,Ward 4,1540,2016
+"Professional, scientific and technical services",Ward 4,9255,2016
+Management of companies and enterprises,Ward 4,280,2016
+"Administrative and support, waste management and remediation services",Ward 4,2540,2016
+Educational services,Ward 4,6615,2016
+Health care and social assistance,Ward 4,5755,2016
+"Arts, entertainment and recreation",Ward 4,2680,2016
+Accommodation and food services,Ward 4,5110,2016
+Other services (except public administration),Ward 4,2870,2016
+Public administration,Ward 4,2825,2016
+All industry categories,Ward 5,56515,2016
+"Agriculture, forestry, fishing and hunting",Ward 5,100,2016
+"Mining, quarrying, and oil and gas extraction",Ward 5,55,2016
+Utilities,Ward 5,135,2016
+Construction,Ward 5,6725,2016
+Manufacturing,Ward 5,6080,2016
+Wholesale trade,Ward 5,2010,2016
+Retail trade,Ward 5,6570,2016
+Transportation and warehousing,Ward 5,3315,2016
+Information and cultural industries,Ward 5,1240,2016
+Finance and insurance,Ward 5,2605,2016
+Real estate and rental and leasing,Ward 5,1290,2016
+"Professional, scientific and technical services",Ward 5,2770,2016
+Management of companies and enterprises,Ward 5,85,2016
+"Administrative and support, waste management and remediation services",Ward 5,4805,2016
+Educational services,Ward 5,3050,2016
+Health care and social assistance,Ward 5,5965,2016
+"Arts, entertainment and recreation",Ward 5,955,2016
+Accommodation and food services,Ward 5,3835,2016
+Other services (except public administration),Ward 5,3395,2016
+Public administration,Ward 5,1540,2016
+All industry categories,Ward 6,54295,2016
+"Agriculture, forestry, fishing and hunting",Ward 6,65,2016
+"Mining, quarrying, and oil and gas extraction",Ward 6,70,2016
+Utilities,Ward 6,170,2016
+Construction,Ward 6,4140,2016
+Manufacturing,Ward 6,5860,2016
+Wholesale trade,Ward 6,2030,2016
+Retail trade,Ward 6,5655,2016
+Transportation and warehousing,Ward 6,2425,2016
+Information and cultural industries,Ward 6,1185,2016
+Finance and insurance,Ward 6,2850,2016
+Real estate and rental and leasing,Ward 6,1385,2016
+"Professional, scientific and technical services",Ward 6,4655,2016
+Management of companies and enterprises,Ward 6,125,2016
+"Administrative and support, waste management and remediation services",Ward 6,3520,2016
+Educational services,Ward 6,3665,2016
+Health care and social assistance,Ward 6,6420,2016
+"Arts, entertainment and recreation",Ward 6,980,2016
+Accommodation and food services,Ward 6,3485,2016
+Other services (except public administration),Ward 6,3780,2016
+Public administration,Ward 6,1835,2016
+All industry categories,Ward 7,48575,2016
+"Agriculture, forestry, fishing and hunting",Ward 7,115,2016
+"Mining, quarrying, and oil and gas extraction",Ward 7,35,2016
+Utilities,Ward 7,125,2016
+Construction,Ward 7,4240,2016
+Manufacturing,Ward 7,8500,2016
+Wholesale trade,Ward 7,1960,2016
+Retail trade,Ward 7,5835,2016
+Transportation and warehousing,Ward 7,3425,2016
+Information and cultural industries,Ward 7,725,2016
+Finance and insurance,Ward 7,1810,2016
+Real estate and rental and leasing,Ward 7,840,2016
+"Professional, scientific and technical services",Ward 7,2220,2016
+Management of companies and enterprises,Ward 7,85,2016
+"Administrative and support, waste management and remediation services",Ward 7,3915,2016
+Educational services,Ward 7,2360,2016
+Health care and social assistance,Ward 7,4260,2016
+"Arts, entertainment and recreation",Ward 7,700,2016
+Accommodation and food services,Ward 7,3885,2016
+Other services (except public administration),Ward 7,2590,2016
+Public administration,Ward 7,945,2016
+All industry categories,Ward 8,59750,2016
+"Agriculture, forestry, fishing and hunting",Ward 8,95,2016
+"Mining, quarrying, and oil and gas extraction",Ward 8,105,2016
+Utilities,Ward 8,160,2016
+Construction,Ward 8,2900,2016
+Manufacturing,Ward 8,3180,2016
+Wholesale trade,Ward 8,2095,2016
+Retail trade,Ward 8,5195,2016
+Transportation and warehousing,Ward 8,1570,2016
+Information and cultural industries,Ward 8,1905,2016
+Finance and insurance,Ward 8,5440,2016
+Real estate and rental and leasing,Ward 8,2425,2016
+"Professional, scientific and technical services",Ward 8,8330,2016
+Management of companies and enterprises,Ward 8,185,2016
+"Administrative and support, waste management and remediation services",Ward 8,3035,2016
+Educational services,Ward 8,5310,2016
+Health care and social assistance,Ward 8,7370,2016
+"Arts, entertainment and recreation",Ward 8,1420,2016
+Accommodation and food services,Ward 8,3460,2016
+Other services (except public administration),Ward 8,3850,2016
+Public administration,Ward 8,1725,2016
+All industry categories,Ward 9,64745,2016
+"Agriculture, forestry, fishing and hunting",Ward 9,95,2016
+"Mining, quarrying, and oil and gas extraction",Ward 9,55,2016
+Utilities,Ward 9,180,2016
+Construction,Ward 9,5870,2016
+Manufacturing,Ward 9,3680,2016
+Wholesale trade,Ward 9,1640,2016
+Retail trade,Ward 9,6395,2016
+Transportation and warehousing,Ward 9,1955,2016
+Information and cultural industries,Ward 9,4220,2016
+Finance and insurance,Ward 9,3375,2016
+Real estate and rental and leasing,Ward 9,1465,2016
+"Professional, scientific and technical services",Ward 9,6980,2016
+Management of companies and enterprises,Ward 9,160,2016
+"Administrative and support, waste management and remediation services",Ward 9,3725,2016
+Educational services,Ward 9,5575,2016
+Health care and social assistance,Ward 9,5285,2016
+"Arts, entertainment and recreation",Ward 9,2520,2016
+Accommodation and food services,Ward 9,6080,2016
+Other services (except public administration),Ward 9,3215,2016
+Public administration,Ward 9,2280,2016
+All industry categories,Ward 10,85415,2016
+"Agriculture, forestry, fishing and hunting",Ward 10,75,2016
+"Mining, quarrying, and oil and gas extraction",Ward 10,270,2016
+Utilities,Ward 10,395,2016
+Construction,Ward 10,2065,2016
+Manufacturing,Ward 10,2770,2016
+Wholesale trade,Ward 10,2655,2016
+Retail trade,Ward 10,5745,2016
+Transportation and warehousing,Ward 10,1700,2016
+Information and cultural industries,Ward 10,5980,2016
+Finance and insurance,Ward 10,13260,2016
+Real estate and rental and leasing,Ward 10,2560,2016
+"Professional, scientific and technical services",Ward 10,19310,2016
+Management of companies and enterprises,Ward 10,395,2016
+"Administrative and support, waste management and remediation services",Ward 10,2810,2016
+Educational services,Ward 10,4805,2016
+Health care and social assistance,Ward 10,6050,2016
+"Arts, entertainment and recreation",Ward 10,2870,2016
+Accommodation and food services,Ward 10,6245,2016
+Other services (except public administration),Ward 10,2495,2016
+Public administration,Ward 10,2965,2016
+All industry categories,Ward 11,60715,2016
+"Agriculture, forestry, fishing and hunting",Ward 11,95,2016
+"Mining, quarrying, and oil and gas extraction",Ward 11,100,2016
+Utilities,Ward 11,200,2016
+Construction,Ward 11,1625,2016
+Manufacturing,Ward 11,1770,2016
+Wholesale trade,Ward 11,1420,2016
+Retail trade,Ward 11,4310,2016
+Transportation and warehousing,Ward 11,1005,2016
+Information and cultural industries,Ward 11,3985,2016
+Finance and insurance,Ward 11,5780,2016
+Real estate and rental and leasing,Ward 11,1850,2016
+"Professional, scientific and technical services",Ward 11,11075,2016
+Management of companies and enterprises,Ward 11,215,2016
+"Administrative and support, waste management and remediation services",Ward 11,1925,2016
+Educational services,Ward 11,7435,2016
+Health care and social assistance,Ward 11,5635,2016
+"Arts, entertainment and recreation",Ward 11,2580,2016
+Accommodation and food services,Ward 11,4785,2016
+Other services (except public administration),Ward 11,2440,2016
+Public administration,Ward 11,2500,2016
+All industry categories,Ward 12,63125,2016
+"Agriculture, forestry, fishing and hunting",Ward 12,105,2016
+"Mining, quarrying, and oil and gas extraction",Ward 12,65,2016
+Utilities,Ward 12,195,2016
+Construction,Ward 12,2365,2016
+Manufacturing,Ward 12,2355,2016
+Wholesale trade,Ward 12,1650,2016
+Retail trade,Ward 12,5185,2016
+Transportation and warehousing,Ward 12,1200,2016
+Information and cultural industries,Ward 12,3415,2016
+Finance and insurance,Ward 12,6060,2016
+Real estate and rental and leasing,Ward 12,2270,2016
+"Professional, scientific and technical services",Ward 12,10810,2016
+Management of companies and enterprises,Ward 12,260,2016
+"Administrative and support, waste management and remediation services",Ward 12,2570,2016
+Educational services,Ward 12,6310,2016
+Health care and social assistance,Ward 12,6445,2016
+"Arts, entertainment and recreation",Ward 12,1805,2016
+Accommodation and food services,Ward 12,3965,2016
+Other services (except public administration),Ward 12,3505,2016
+Public administration,Ward 12,2580,2016
+All industry categories,Ward 13,62260,2016
+"Agriculture, forestry, fishing and hunting",Ward 13,25,2016
+"Mining, quarrying, and oil and gas extraction",Ward 13,115,2016
+Utilities,Ward 13,300,2016
+Construction,Ward 13,1320,2016
+Manufacturing,Ward 13,1920,2016
+Wholesale trade,Ward 13,1330,2016
+Retail trade,Ward 13,5275,2016
+Transportation and warehousing,Ward 13,1825,2016
+Information and cultural industries,Ward 13,3835,2016
+Finance and insurance,Ward 13,6310,2016
+Real estate and rental and leasing,Ward 13,1560,2016
+"Professional, scientific and technical services",Ward 13,10520,2016
+Management of companies and enterprises,Ward 13,220,2016
+"Administrative and support, waste management and remediation services",Ward 13,2835,2016
+Educational services,Ward 13,5230,2016
+Health care and social assistance,Ward 13,5820,2016
+"Arts, entertainment and recreation",Ward 13,2195,2016
+Accommodation and food services,Ward 13,5990,2016
+Other services (except public administration),Ward 13,2805,2016
+Public administration,Ward 13,2835,2016
+All industry categories,Ward 14,60075,2016
+"Agriculture, forestry, fishing and hunting",Ward 14,80,2016
+"Mining, quarrying, and oil and gas extraction",Ward 14,60,2016
+Utilities,Ward 14,270,2016
+Construction,Ward 14,2475,2016
+Manufacturing,Ward 14,2490,2016
+Wholesale trade,Ward 14,1605,2016
+Retail trade,Ward 14,5150,2016
+Transportation and warehousing,Ward 14,1625,2016
+Information and cultural industries,Ward 14,4400,2016
+Finance and insurance,Ward 14,4745,2016
+Real estate and rental and leasing,Ward 14,1345,2016
+"Professional, scientific and technical services",Ward 14,8470,2016
+Management of companies and enterprises,Ward 14,225,2016
+"Administrative and support, waste management and remediation services",Ward 14,2395,2016
+Educational services,Ward 14,5850,2016
+Health care and social assistance,Ward 14,5620,2016
+"Arts, entertainment and recreation",Ward 14,2295,2016
+Accommodation and food services,Ward 14,5065,2016
+Other services (except public administration),Ward 14,2835,2016
+Public administration,Ward 14,3080,2016
+All industry categories,Ward 15,51470,2016
+"Agriculture, forestry, fishing and hunting",Ward 15,105,2016
+"Mining, quarrying, and oil and gas extraction",Ward 15,140,2016
+Utilities,Ward 15,250,2016
+Construction,Ward 15,2055,2016
+Manufacturing,Ward 15,2150,2016
+Wholesale trade,Ward 15,1880,2016
+Retail trade,Ward 15,4115,2016
+Transportation and warehousing,Ward 15,1475,2016
+Information and cultural industries,Ward 15,2085,2016
+Finance and insurance,Ward 15,5825,2016
+Real estate and rental and leasing,Ward 15,2115,2016
+"Professional, scientific and technical services",Ward 15,8615,2016
+Management of companies and enterprises,Ward 15,255,2016
+"Administrative and support, waste management and remediation services",Ward 15,2220,2016
+Educational services,Ward 15,4285,2016
+Health care and social assistance,Ward 15,6115,2016
+"Arts, entertainment and recreation",Ward 15,1235,2016
+Accommodation and food services,Ward 15,2540,2016
+Other services (except public administration),Ward 15,2180,2016
+Public administration,Ward 15,1835,2016
+All industry categories,Ward 16,45240,2016
+"Agriculture, forestry, fishing and hunting",Ward 16,45,2016
+"Mining, quarrying, and oil and gas extraction",Ward 16,75,2016
+Utilities,Ward 16,160,2016
+Construction,Ward 16,2275,2016
+Manufacturing,Ward 16,2950,2016
+Wholesale trade,Ward 16,1650,2016
+Retail trade,Ward 16,5160,2016
+Transportation and warehousing,Ward 16,1965,2016
+Information and cultural industries,Ward 16,1715,2016
+Finance and insurance,Ward 16,3760,2016
+Real estate and rental and leasing,Ward 16,1490,2016
+"Professional, scientific and technical services",Ward 16,4945,2016
+Management of companies and enterprises,Ward 16,135,2016
+"Administrative and support, waste management and remediation services",Ward 16,2970,2016
+Educational services,Ward 16,3175,2016
+Health care and social assistance,Ward 16,4840,2016
+"Arts, entertainment and recreation",Ward 16,865,2016
+Accommodation and food services,Ward 16,3035,2016
+Other services (except public administration),Ward 16,2425,2016
+Public administration,Ward 16,1620,2016
+All industry categories,Ward 17,54440,2016
+"Agriculture, forestry, fishing and hunting",Ward 17,45,2016
+"Mining, quarrying, and oil and gas extraction",Ward 17,95,2016
+Utilities,Ward 17,285,2016
+Construction,Ward 17,2350,2016
+Manufacturing,Ward 17,3880,2016
+Wholesale trade,Ward 17,2170,2016
+Retail trade,Ward 17,5645,2016
+Transportation and warehousing,Ward 17,1905,2016
+Information and cultural industries,Ward 17,1770,2016
+Finance and insurance,Ward 17,5385,2016
+Real estate and rental and leasing,Ward 17,1895,2016
+"Professional, scientific and technical services",Ward 17,8135,2016
+Management of companies and enterprises,Ward 17,125,2016
+"Administrative and support, waste management and remediation services",Ward 17,2575,2016
+Educational services,Ward 17,4140,2016
+Health care and social assistance,Ward 17,5930,2016
+"Arts, entertainment and recreation",Ward 17,700,2016
+Accommodation and food services,Ward 17,3460,2016
+Other services (except public administration),Ward 17,2190,2016
+Public administration,Ward 17,1760,2016
+All industry categories,Ward 18,60495,2016
+"Agriculture, forestry, fishing and hunting",Ward 18,65,2016
+"Mining, quarrying, and oil and gas extraction",Ward 18,100,2016
+Utilities,Ward 18,350,2016
+Construction,Ward 18,2460,2016
+Manufacturing,Ward 18,3580,2016
+Wholesale trade,Ward 18,2300,2016
+Retail trade,Ward 18,5880,2016
+Transportation and warehousing,Ward 18,1550,2016
+Information and cultural industries,Ward 18,1895,2016
+Finance and insurance,Ward 18,7310,2016
+Real estate and rental and leasing,Ward 18,2135,2016
+"Professional, scientific and technical services",Ward 18,9670,2016
+Management of companies and enterprises,Ward 18,195,2016
+"Administrative and support, waste management and remediation services",Ward 18,2455,2016
+Educational services,Ward 18,4590,2016
+Health care and social assistance,Ward 18,6100,2016
+"Arts, entertainment and recreation",Ward 18,1005,2016
+Accommodation and food services,Ward 18,3600,2016
+Other services (except public administration),Ward 18,2835,2016
+Public administration,Ward 18,2415,2016
+All industry categories,Ward 19,58935,2016
+"Agriculture, forestry, fishing and hunting",Ward 19,125,2016
+"Mining, quarrying, and oil and gas extraction",Ward 19,120,2016
+Utilities,Ward 19,230,2016
+Construction,Ward 19,2785,2016
+Manufacturing,Ward 19,2465,2016
+Wholesale trade,Ward 19,1460,2016
+Retail trade,Ward 19,5445,2016
+Transportation and warehousing,Ward 19,1995,2016
+Information and cultural industries,Ward 19,3675,2016
+Finance and insurance,Ward 19,4885,2016
+Real estate and rental and leasing,Ward 19,1495,2016
+"Professional, scientific and technical services",Ward 19,7590,2016
+Management of companies and enterprises,Ward 19,155,2016
+"Administrative and support, waste management and remediation services",Ward 19,3015,2016
+Educational services,Ward 19,5750,2016
+Health care and social assistance,Ward 19,5870,2016
+"Arts, entertainment and recreation",Ward 19,1985,2016
+Accommodation and food services,Ward 19,4240,2016
+Other services (except public administration),Ward 19,2610,2016
+Public administration,Ward 19,3040,2016
+All industry categories,Ward 20,53610,2016
+"Agriculture, forestry, fishing and hunting",Ward 20,60,2016
+"Mining, quarrying, and oil and gas extraction",Ward 20,55,2016
+Utilities,Ward 20,230,2016
+Construction,Ward 20,2945,2016
+Manufacturing,Ward 20,3880,2016
+Wholesale trade,Ward 20,1545,2016
+Retail trade,Ward 20,5940,2016
+Transportation and warehousing,Ward 20,2860,2016
+Information and cultural industries,Ward 20,2000,2016
+Finance and insurance,Ward 20,4280,2016
+Real estate and rental and leasing,Ward 20,1565,2016
+"Professional, scientific and technical services",Ward 20,4305,2016
+Management of companies and enterprises,Ward 20,95,2016
+"Administrative and support, waste management and remediation services",Ward 20,3660,2016
+Educational services,Ward 20,3685,2016
+Health care and social assistance,Ward 20,6010,2016
+"Arts, entertainment and recreation",Ward 20,975,2016
+Accommodation and food services,Ward 20,4885,2016
+Other services (except public administration),Ward 20,2510,2016
+Public administration,Ward 20,2120,2016
+All industry categories,Ward 21,53320,2016
+"Agriculture, forestry, fishing and hunting",Ward 21,45,2016
+"Mining, quarrying, and oil and gas extraction",Ward 21,35,2016
+Utilities,Ward 21,255,2016
+Construction,Ward 21,2900,2016
+Manufacturing,Ward 21,5250,2016
+Wholesale trade,Ward 21,1970,2016
+Retail trade,Ward 21,6435,2016
+Transportation and warehousing,Ward 21,2740,2016
+Information and cultural industries,Ward 21,1480,2016
+Finance and insurance,Ward 21,3895,2016
+Real estate and rental and leasing,Ward 21,1325,2016
+"Professional, scientific and technical services",Ward 21,3675,2016
+Management of companies and enterprises,Ward 21,100,2016
+"Administrative and support, waste management and remediation services",Ward 21,3975,2016
+Educational services,Ward 21,3035,2016
+Health care and social assistance,Ward 21,6255,2016
+"Arts, entertainment and recreation",Ward 21,755,2016
+Accommodation and food services,Ward 21,4825,2016
+Other services (except public administration),Ward 21,2570,2016
+Public administration,Ward 21,1800,2016
+All industry categories,Ward 22,47725,2016
+"Agriculture, forestry, fishing and hunting",Ward 22,85,2016
+"Mining, quarrying, and oil and gas extraction",Ward 22,60,2016
+Utilities,Ward 22,170,2016
+Construction,Ward 22,2205,2016
+Manufacturing,Ward 22,5210,2016
+Wholesale trade,Ward 22,2280,2016
+Retail trade,Ward 22,5875,2016
+Transportation and warehousing,Ward 22,1915,2016
+Information and cultural industries,Ward 22,1340,2016
+Finance and insurance,Ward 22,3855,2016
+Real estate and rental and leasing,Ward 22,1155,2016
+"Professional, scientific and technical services",Ward 22,4470,2016
+Management of companies and enterprises,Ward 22,60,2016
+"Administrative and support, waste management and remediation services",Ward 22,2860,2016
+Educational services,Ward 22,2865,2016
+Health care and social assistance,Ward 22,4660,2016
+"Arts, entertainment and recreation",Ward 22,560,2016
+Accommodation and food services,Ward 22,4535,2016
+Other services (except public administration),Ward 22,2380,2016
+Public administration,Ward 22,1200,2016
+All industry categories,Ward 23,46040,2016
+"Agriculture, forestry, fishing and hunting",Ward 23,160,2016
+"Mining, quarrying, and oil and gas extraction",Ward 23,55,2016
+Utilities,Ward 23,165,2016
+Construction,Ward 23,2105,2016
+Manufacturing,Ward 23,6515,2016
+Wholesale trade,Ward 23,2130,2016
+Retail trade,Ward 23,5600,2016
+Transportation and warehousing,Ward 23,2000,2016
+Information and cultural industries,Ward 23,1280,2016
+Finance and insurance,Ward 23,3375,2016
+Real estate and rental and leasing,Ward 23,970,2016
+"Professional, scientific and technical services",Ward 23,3555,2016
+Management of companies and enterprises,Ward 23,60,2016
+"Administrative and support, waste management and remediation services",Ward 23,2755,2016
+Educational services,Ward 23,2125,2016
+Health care and social assistance,Ward 23,4190,2016
+"Arts, entertainment and recreation",Ward 23,555,2016
+Accommodation and food services,Ward 23,5250,2016
+Other services (except public administration),Ward 23,1930,2016
+Public administration,Ward 23,1260,2016
+All industry categories,Ward 24,46115,2016
+"Agriculture, forestry, fishing and hunting",Ward 24,30,2016
+"Mining, quarrying, and oil and gas extraction",Ward 24,50,2016
+Utilities,Ward 24,265,2016
+Construction,Ward 24,2220,2016
+Manufacturing,Ward 24,4745,2016
+Wholesale trade,Ward 24,1825,2016
+Retail trade,Ward 24,5600,2016
+Transportation and warehousing,Ward 24,2510,2016
+Information and cultural industries,Ward 24,1305,2016
+Finance and insurance,Ward 24,3145,2016
+Real estate and rental and leasing,Ward 24,990,2016
+"Professional, scientific and technical services",Ward 24,3315,2016
+Management of companies and enterprises,Ward 24,60,2016
+"Administrative and support, waste management and remediation services",Ward 24,3965,2016
+Educational services,Ward 24,2900,2016
+Health care and social assistance,Ward 24,5340,2016
+"Arts, entertainment and recreation",Ward 24,605,2016
+Accommodation and food services,Ward 24,3650,2016
+Other services (except public administration),Ward 24,1955,2016
+Public administration,Ward 24,1635,2016
+All industry categories,Ward 25,51390,2016
+"Agriculture, forestry, fishing and hunting",Ward 25,50,2016
+"Mining, quarrying, and oil and gas extraction",Ward 25,40,2016
+Utilities,Ward 25,345,2016
+Construction,Ward 25,2430,2016
+Manufacturing,Ward 25,5070,2016
+Wholesale trade,Ward 25,1870,2016
+Retail trade,Ward 25,5530,2016
+Transportation and warehousing,Ward 25,2640,2016
+Information and cultural industries,Ward 25,1715,2016
+Finance and insurance,Ward 25,4745,2016
+Real estate and rental and leasing,Ward 25,1245,2016
+"Professional, scientific and technical services",Ward 25,4055,2016
+Management of companies and enterprises,Ward 25,130,2016
+"Administrative and support, waste management and remediation services",Ward 25,3305,2016
+Educational services,Ward 25,3905,2016
+Health care and social assistance,Ward 25,5855,2016
+"Arts, entertainment and recreation",Ward 25,735,2016
+Accommodation and food services,Ward 25,3540,2016
+Other services (except public administration),Ward 25,2065,2016
+Public administration,Ward 25,2135,2016
+All industry categories,Toronto,1463585,2021
+"Agriculture, forestry, fishing and hunting",Toronto,2570,2021
+"Mining, quarrying, and oil and gas extraction",Toronto,1990,2021
+Utilities,Toronto,6115,2021
+Construction,Toronto,83030,2021
+Manufacturing,Toronto,97585,2021
+Wholesale trade,Toronto,45385,2021
+Retail trade,Toronto,141575,2021
+Transportation and warehousing,Toronto,67325,2021
+Information and cultural industries,Toronto,60845,2021
+Finance and insurance,Toronto,123495,2021
+Real estate and rental and leasing,Toronto,41035,2021
+"Professional, scientific and technical services",Toronto,205875,2021
+Management of companies and enterprises,Toronto,9170,2021
+"Administrative and support, waste management and remediation services",Toronto,75090,2021
+Educational services,Toronto,107475,2021
+Health care and social assistance,Toronto,163465,2021
+"Arts, entertainment and recreation",Toronto,33410,2021
+Accommodation and food services,Toronto,82155,2021
+Other services (except public administration),Toronto,61010,2021
+Public administration,Toronto,54970,2021
+All industry categories,Ward 1,54670,2021
+"Agriculture, forestry, fishing and hunting",Ward 1,110,2021
+"Mining, quarrying, and oil and gas extraction",Ward 1,20,2021
+Utilities,Ward 1,150,2021
+Construction,Ward 1,4245,2021
+Manufacturing,Ward 1,7515,2021
+Wholesale trade,Ward 1,2020,2021
+Retail trade,Ward 1,6370,2021
+Transportation and warehousing,Ward 1,5785,2021
+Information and cultural industries,Ward 1,980,2021
+Finance and insurance,Ward 1,2315,2021
+Real estate and rental and leasing,Ward 1,1000,2021
+"Professional, scientific and technical services",Ward 1,3425,2021
+Management of companies and enterprises,Ward 1,105,2021
+"Administrative and support, waste management and remediation services",Ward 1,4260,2021
+Educational services,Ward 1,2665,2021
+Health care and social assistance,Ward 1,6170,2021
+"Arts, entertainment and recreation",Ward 1,820,2021
+Accommodation and food services,Ward 1,3290,2021
+Other services (except public administration),Ward 1,2125,2021
+Public administration,Ward 1,1305,2021
+All industry categories,Ward 2,59325,2021
+"Agriculture, forestry, fishing and hunting",Ward 2,110,2021
+"Mining, quarrying, and oil and gas extraction",Ward 2,80,2021
+Utilities,Ward 2,280,2021
+Construction,Ward 2,5140,2021
+Manufacturing,Ward 2,4130,2021
+Wholesale trade,Ward 2,2445,2021
+Retail trade,Ward 2,6160,2021
+Transportation and warehousing,Ward 2,3530,2021
+Information and cultural industries,Ward 2,1705,2021
+Finance and insurance,Ward 2,4315,2021
+Real estate and rental and leasing,Ward 2,1945,2021
+"Professional, scientific and technical services",Ward 2,6990,2021
+Management of companies and enterprises,Ward 2,350,2021
+"Administrative and support, waste management and remediation services",Ward 2,2980,2021
+Educational services,Ward 2,4875,2021
+Health care and social assistance,Ward 2,6210,2021
+"Arts, entertainment and recreation",Ward 2,1120,2021
+Accommodation and food services,Ward 2,2260,2021
+Other services (except public administration),Ward 2,2180,2021
+Public administration,Ward 2,2530,2021
+All industry categories,Ward 3,80455,2021
+"Agriculture, forestry, fishing and hunting",Ward 3,170,2021
+"Mining, quarrying, and oil and gas extraction",Ward 3,145,2021
+Utilities,Ward 3,505,2021
+Construction,Ward 3,5600,2021
+Manufacturing,Ward 3,5390,2021
+Wholesale trade,Ward 3,3610,2021
+Retail trade,Ward 3,8030,2021
+Transportation and warehousing,Ward 3,4100,2021
+Information and cultural industries,Ward 3,3590,2021
+Finance and insurance,Ward 3,6730,2021
+Real estate and rental and leasing,Ward 3,2285,2021
+"Professional, scientific and technical services",Ward 3,11625,2021
+Management of companies and enterprises,Ward 3,515,2021
+"Administrative and support, waste management and remediation services",Ward 3,3595,2021
+Educational services,Ward 3,5700,2021
+Health care and social assistance,Ward 3,7850,2021
+"Arts, entertainment and recreation",Ward 3,1605,2021
+Accommodation and food services,Ward 3,3160,2021
+Other services (except public administration),Ward 3,2935,2021
+Public administration,Ward 3,3320,2021
+All industry categories,Ward 4,61115,2021
+"Agriculture, forestry, fishing and hunting",Ward 4,115,2021
+"Mining, quarrying, and oil and gas extraction",Ward 4,120,2021
+Utilities,Ward 4,255,2021
+Construction,Ward 4,2505,2021
+Manufacturing,Ward 4,2505,2021
+Wholesale trade,Ward 4,1805,2021
+Retail trade,Ward 4,5225,2021
+Transportation and warehousing,Ward 4,2035,2021
+Information and cultural industries,Ward 4,4275,2021
+Finance and insurance,Ward 4,4040,2021
+Real estate and rental and leasing,Ward 4,1530,2021
+"Professional, scientific and technical services",Ward 4,10290,2021
+Management of companies and enterprises,Ward 4,370,2021
+"Administrative and support, waste management and remediation services",Ward 4,2180,2021
+Educational services,Ward 4,6070,2021
+Health care and social assistance,Ward 4,6410,2021
+"Arts, entertainment and recreation",Ward 4,2640,2021
+Accommodation and food services,Ward 4,3355,2021
+Other services (except public administration),Ward 4,2645,2021
+Public administration,Ward 4,2760,2021
+All industry categories,Ward 5,55230,2021
+"Agriculture, forestry, fishing and hunting",Ward 5,90,2021
+"Mining, quarrying, and oil and gas extraction",Ward 5,35,2021
+Utilities,Ward 5,155,2021
+Construction,Ward 5,7600,2021
+Manufacturing,Ward 5,5220,2021
+Wholesale trade,Ward 5,1755,2021
+Retail trade,Ward 5,5950,2021
+Transportation and warehousing,Ward 5,3805,2021
+Information and cultural industries,Ward 5,1290,2021
+Finance and insurance,Ward 5,2430,2021
+Real estate and rental and leasing,Ward 5,1085,2021
+"Professional, scientific and technical services",Ward 5,3475,2021
+Management of companies and enterprises,Ward 5,160,2021
+"Administrative and support, waste management and remediation services",Ward 5,4340,2021
+Educational services,Ward 5,3180,2021
+Health care and social assistance,Ward 5,6660,2021
+"Arts, entertainment and recreation",Ward 5,800,2021
+Accommodation and food services,Ward 5,3030,2021
+Other services (except public administration),Ward 5,2725,2021
+Public administration,Ward 5,1450,2021
+All industry categories,Ward 6,55870,2021
+"Agriculture, forestry, fishing and hunting",Ward 6,85,2021
+"Mining, quarrying, and oil and gas extraction",Ward 6,45,2021
+Utilities,Ward 6,145,2021
+Construction,Ward 6,4775,2021
+Manufacturing,Ward 6,5805,2021
+Wholesale trade,Ward 6,2065,2021
+Retail trade,Ward 6,5745,2021
+Transportation and warehousing,Ward 6,2730,2021
+Information and cultural industries,Ward 6,1105,2021
+Finance and insurance,Ward 6,3180,2021
+Real estate and rental and leasing,Ward 6,1555,2021
+"Professional, scientific and technical services",Ward 6,5145,2021
+Management of companies and enterprises,Ward 6,235,2021
+"Administrative and support, waste management and remediation services",Ward 6,3235,2021
+Educational services,Ward 6,3650,2021
+Health care and social assistance,Ward 6,7435,2021
+"Arts, entertainment and recreation",Ward 6,865,2021
+Accommodation and food services,Ward 6,3100,2021
+Other services (except public administration),Ward 6,3265,2021
+Public administration,Ward 6,1700,2021
+All industry categories,Ward 7,50610,2021
+"Agriculture, forestry, fishing and hunting",Ward 7,140,2021
+"Mining, quarrying, and oil and gas extraction",Ward 7,40,2021
+Utilities,Ward 7,80,2021
+Construction,Ward 7,4895,2021
+Manufacturing,Ward 7,8190,2021
+Wholesale trade,Ward 7,1740,2021
+Retail trade,Ward 7,5940,2021
+Transportation and warehousing,Ward 7,3875,2021
+Information and cultural industries,Ward 7,705,2021
+Finance and insurance,Ward 7,1760,2021
+Real estate and rental and leasing,Ward 7,770,2021
+"Professional, scientific and technical services",Ward 7,2555,2021
+Management of companies and enterprises,Ward 7,125,2021
+"Administrative and support, waste management and remediation services",Ward 7,3715,2021
+Educational services,Ward 7,2285,2021
+Health care and social assistance,Ward 7,6155,2021
+"Arts, entertainment and recreation",Ward 7,685,2021
+Accommodation and food services,Ward 7,3195,2021
+Other services (except public administration),Ward 7,2645,2021
+Public administration,Ward 7,1115,2021
+All industry categories,Ward 8,59505,2021
+"Agriculture, forestry, fishing and hunting",Ward 8,85,2021
+"Mining, quarrying, and oil and gas extraction",Ward 8,110,2021
+Utilities,Ward 8,180,2021
+Construction,Ward 8,3315,2021
+Manufacturing,Ward 8,3315,2021
+Wholesale trade,Ward 8,1985,2021
+Retail trade,Ward 8,5550,2021
+Transportation and warehousing,Ward 8,1625,2021
+Information and cultural industries,Ward 8,1675,2021
+Finance and insurance,Ward 8,5335,2021
+Real estate and rental and leasing,Ward 8,2470,2021
+"Professional, scientific and technical services",Ward 8,9070,2021
+Management of companies and enterprises,Ward 8,395,2021
+"Administrative and support, waste management and remediation services",Ward 8,2865,2021
+Educational services,Ward 8,4775,2021
+Health care and social assistance,Ward 8,7690,2021
+"Arts, entertainment and recreation",Ward 8,1130,2021
+Accommodation and food services,Ward 8,2705,2021
+Other services (except public administration),Ward 8,3365,2021
+Public administration,Ward 8,1850,2021
+All industry categories,Ward 9,61375,2021
+"Agriculture, forestry, fishing and hunting",Ward 9,75,2021
+"Mining, quarrying, and oil and gas extraction",Ward 9,40,2021
+Utilities,Ward 9,195,2021
+Construction,Ward 9,5265,2021
+Manufacturing,Ward 9,3055,2021
+Wholesale trade,Ward 9,1390,2021
+Retail trade,Ward 9,5895,2021
+Transportation and warehousing,Ward 9,1860,2021
+Information and cultural industries,Ward 9,4285,2021
+Finance and insurance,Ward 9,3445,2021
+Real estate and rental and leasing,Ward 9,1210,2021
+"Professional, scientific and technical services",Ward 9,8515,2021
+Management of companies and enterprises,Ward 9,275,2021
+"Administrative and support, waste management and remediation services",Ward 9,3265,2021
+Educational services,Ward 9,5555,2021
+Health care and social assistance,Ward 9,5625,2021
+"Arts, entertainment and recreation",Ward 9,2165,2021
+Accommodation and food services,Ward 9,3730,2021
+Other services (except public administration),Ward 9,2950,2021
+Public administration,Ward 9,2595,2021
+All industry categories,Ward 10,99770,2021
+"Agriculture, forestry, fishing and hunting",Ward 10,145,2021
+"Mining, quarrying, and oil and gas extraction",Ward 10,270,2021
+Utilities,Ward 10,475,2021
+Construction,Ward 10,2810,2021
+Manufacturing,Ward 10,2965,2021
+Wholesale trade,Ward 10,2920,2021
+Retail trade,Ward 10,7015,2021
+Transportation and warehousing,Ward 10,2475,2021
+Information and cultural industries,Ward 10,6695,2021
+Finance and insurance,Ward 10,15270,2021
+Real estate and rental and leasing,Ward 10,2945,2021
+"Professional, scientific and technical services",Ward 10,24885,2021
+Management of companies and enterprises,Ward 10,1145,2021
+"Administrative and support, waste management and remediation services",Ward 10,2880,2021
+Educational services,Ward 10,5305,2021
+Health care and social assistance,Ward 10,7555,2021
+"Arts, entertainment and recreation",Ward 10,2740,2021
+Accommodation and food services,Ward 10,4650,2021
+Other services (except public administration),Ward 10,2885,2021
+Public administration,Ward 10,3750,2021
+All industry categories,Ward 11,61455,2021
+"Agriculture, forestry, fishing and hunting",Ward 11,135,2021
+"Mining, quarrying, and oil and gas extraction",Ward 11,125,2021
+Utilities,Ward 11,220,2021
+Construction,Ward 11,1620,2021
+Manufacturing,Ward 11,1650,2021
+Wholesale trade,Ward 11,1320,2021
+Retail trade,Ward 11,4700,2021
+Transportation and warehousing,Ward 11,1075,2021
+Information and cultural industries,Ward 11,3740,2021
+Finance and insurance,Ward 11,6045,2021
+Real estate and rental and leasing,Ward 11,2075,2021
+"Professional, scientific and technical services",Ward 11,12765,2021
+Management of companies and enterprises,Ward 11,430,2021
+"Administrative and support, waste management and remediation services",Ward 11,1750,2021
+Educational services,Ward 11,6730,2021
+Health care and social assistance,Ward 11,6380,2021
+"Arts, entertainment and recreation",Ward 11,2495,2021
+Accommodation and food services,Ward 11,3395,2021
+Other services (except public administration),Ward 11,2315,2021
+Public administration,Ward 11,2500,2021
+All industry categories,Ward 12,67120,2021
+"Agriculture, forestry, fishing and hunting",Ward 12,135,2021
+"Mining, quarrying, and oil and gas extraction",Ward 12,115,2021
+Utilities,Ward 12,235,2021
+Construction,Ward 12,2650,2021
+Manufacturing,Ward 12,2325,2021
+Wholesale trade,Ward 12,1555,2021
+Retail trade,Ward 12,5520,2021
+Transportation and warehousing,Ward 12,1470,2021
+Information and cultural industries,Ward 12,3225,2021
+Finance and insurance,Ward 12,6665,2021
+Real estate and rental and leasing,Ward 12,2610,2021
+"Professional, scientific and technical services",Ward 12,13320,2021
+Management of companies and enterprises,Ward 12,485,2021
+"Administrative and support, waste management and remediation services",Ward 12,2660,2021
+Educational services,Ward 12,5945,2021
+Health care and social assistance,Ward 12,7480,2021
+"Arts, entertainment and recreation",Ward 12,2065,2021
+Accommodation and food services,Ward 12,3010,2021
+Other services (except public administration),Ward 12,2855,2021
+Public administration,Ward 12,2800,2021
+All industry categories,Ward 13,72305,2021
+"Agriculture, forestry, fishing and hunting",Ward 13,160,2021
+"Mining, quarrying, and oil and gas extraction",Ward 13,150,2021
+Utilities,Ward 13,260,2021
+Construction,Ward 13,1780,2021
+Manufacturing,Ward 13,1850,2021
+Wholesale trade,Ward 13,1505,2021
+Retail trade,Ward 13,5995,2021
+Transportation and warehousing,Ward 13,2190,2021
+Information and cultural industries,Ward 13,4200,2021
+Finance and insurance,Ward 13,8080,2021
+Real estate and rental and leasing,Ward 13,1770,2021
+"Professional, scientific and technical services",Ward 13,14395,2021
+Management of companies and enterprises,Ward 13,690,2021
+"Administrative and support, waste management and remediation services",Ward 13,3085,2021
+Educational services,Ward 13,5895,2021
+Health care and social assistance,Ward 13,7530,2021
+"Arts, entertainment and recreation",Ward 13,2080,2021
+Accommodation and food services,Ward 13,4750,2021
+Other services (except public administration),Ward 13,2805,2021
+Public administration,Ward 13,3135,2021
+All industry categories,Ward 14,58310,2021
+"Agriculture, forestry, fishing and hunting",Ward 14,115,2021
+"Mining, quarrying, and oil and gas extraction",Ward 14,80,2021
+Utilities,Ward 14,300,2021
+Construction,Ward 14,2510,2021
+Manufacturing,Ward 14,2050,2021
+Wholesale trade,Ward 14,1355,2021
+Retail trade,Ward 14,4835,2021
+Transportation and warehousing,Ward 14,1700,2021
+Information and cultural industries,Ward 14,4135,2021
+Finance and insurance,Ward 14,4710,2021
+Real estate and rental and leasing,Ward 14,1735,2021
+"Professional, scientific and technical services",Ward 14,9330,2021
+Management of companies and enterprises,Ward 14,485,2021
+"Administrative and support, waste management and remediation services",Ward 14,2100,2021
+Educational services,Ward 14,5680,2021
+Health care and social assistance,Ward 14,5965,2021
+"Arts, entertainment and recreation",Ward 14,2380,2021
+Accommodation and food services,Ward 14,3205,2021
+Other services (except public administration),Ward 14,2565,2021
+Public administration,Ward 14,3080,2021
+All industry categories,Ward 15,50750,2021
+"Agriculture, forestry, fishing and hunting",Ward 15,95,2021
+"Mining, quarrying, and oil and gas extraction",Ward 15,105,2021
+Utilities,Ward 15,190,2021
+Construction,Ward 15,1965,2021
+Manufacturing,Ward 15,2105,2021
+Wholesale trade,Ward 15,1590,2021
+Retail trade,Ward 15,4275,2021
+Transportation and warehousing,Ward 15,1885,2021
+Information and cultural industries,Ward 15,1725,2021
+Finance and insurance,Ward 15,5720,2021
+Real estate and rental and leasing,Ward 15,2275,2021
+"Professional, scientific and technical services",Ward 15,8745,2021
+Management of companies and enterprises,Ward 15,415,2021
+"Administrative and support, waste management and remediation services",Ward 15,2005,2021
+Educational services,Ward 15,4070,2021
+Health care and social assistance,Ward 15,6610,2021
+"Arts, entertainment and recreation",Ward 15,995,2021
+Accommodation and food services,Ward 15,1975,2021
+Other services (except public administration),Ward 15,2125,2021
+Public administration,Ward 15,1865,2021
+All industry categories,Ward 16,45655,2021
+"Agriculture, forestry, fishing and hunting",Ward 16,40,2021
+"Mining, quarrying, and oil and gas extraction",Ward 16,55,2021
+Utilities,Ward 16,130,2021
+Construction,Ward 16,2690,2021
+Manufacturing,Ward 16,2620,2021
+Wholesale trade,Ward 16,1425,2021
+Retail trade,Ward 16,5280,2021
+Transportation and warehousing,Ward 16,2700,2021
+Information and cultural industries,Ward 16,1725,2021
+Finance and insurance,Ward 16,3750,2021
+Real estate and rental and leasing,Ward 16,1450,2021
+"Professional, scientific and technical services",Ward 16,5530,2021
+Management of companies and enterprises,Ward 16,315,2021
+"Administrative and support, waste management and remediation services",Ward 16,3075,2021
+Educational services,Ward 16,2960,2021
+Health care and social assistance,Ward 16,5390,2021
+"Arts, entertainment and recreation",Ward 16,695,2021
+Accommodation and food services,Ward 16,2200,2021
+Other services (except public administration),Ward 16,1965,2021
+Public administration,Ward 16,1665,2021
+All industry categories,Ward 17,57460,2021
+"Agriculture, forestry, fishing and hunting",Ward 17,45,2021
+"Mining, quarrying, and oil and gas extraction",Ward 17,40,2021
+Utilities,Ward 17,270,2021
+Construction,Ward 17,2625,2021
+Manufacturing,Ward 17,3895,2021
+Wholesale trade,Ward 17,1890,2021
+Retail trade,Ward 17,5405,2021
+Transportation and warehousing,Ward 17,2610,2021
+Information and cultural industries,Ward 17,1845,2021
+Finance and insurance,Ward 17,5680,2021
+Real estate and rental and leasing,Ward 17,1950,2021
+"Professional, scientific and technical services",Ward 17,9675,2021
+Management of companies and enterprises,Ward 17,395,2021
+"Administrative and support, waste management and remediation services",Ward 17,2940,2021
+Educational services,Ward 17,4095,2021
+Health care and social assistance,Ward 17,6385,2021
+"Arts, entertainment and recreation",Ward 17,785,2021
+Accommodation and food services,Ward 17,2920,2021
+Other services (except public administration),Ward 17,2065,2021
+Public administration,Ward 17,1940,2021
+All industry categories,Ward 18,62395,2021
+"Agriculture, forestry, fishing and hunting",Ward 18,115,2021
+"Mining, quarrying, and oil and gas extraction",Ward 18,65,2021
+Utilities,Ward 18,270,2021
+Construction,Ward 18,2910,2021
+Manufacturing,Ward 18,3520,2021
+Wholesale trade,Ward 18,2090,2021
+Retail trade,Ward 18,5675,2021
+Transportation and warehousing,Ward 18,2230,2021
+Information and cultural industries,Ward 18,2035,2021
+Finance and insurance,Ward 18,7035,2021
+Real estate and rental and leasing,Ward 18,2240,2021
+"Professional, scientific and technical services",Ward 18,10920,2021
+Management of companies and enterprises,Ward 18,495,2021
+"Administrative and support, waste management and remediation services",Ward 18,2265,2021
+Educational services,Ward 18,4495,2021
+Health care and social assistance,Ward 18,6830,2021
+"Arts, entertainment and recreation",Ward 18,1065,2021
+Accommodation and food services,Ward 18,3490,2021
+Other services (except public administration),Ward 18,2305,2021
+Public administration,Ward 18,2320,2021
+All industry categories,Ward 19,56835,2021
+"Agriculture, forestry, fishing and hunting",Ward 19,105,2021
+"Mining, quarrying, and oil and gas extraction",Ward 19,105,2021
+Utilities,Ward 19,345,2021
+Construction,Ward 19,2570,2021
+Manufacturing,Ward 19,2355,2021
+Wholesale trade,Ward 19,1395,2021
+Retail trade,Ward 19,4940,2021
+Transportation and warehousing,Ward 19,2145,2021
+Information and cultural industries,Ward 19,3510,2021
+Finance and insurance,Ward 19,4730,2021
+Real estate and rental and leasing,Ward 19,1375,2021
+"Professional, scientific and technical services",Ward 19,8505,2021
+Management of companies and enterprises,Ward 19,440,2021
+"Administrative and support, waste management and remediation services",Ward 19,2675,2021
+Educational services,Ward 19,5235,2021
+Health care and social assistance,Ward 19,6215,2021
+"Arts, entertainment and recreation",Ward 19,1970,2021
+Accommodation and food services,Ward 19,2965,2021
+Other services (except public administration),Ward 19,2405,2021
+Public administration,Ward 19,2860,2021
+All industry categories,Ward 20,52380,2021
+"Agriculture, forestry, fishing and hunting",Ward 20,115,2021
+"Mining, quarrying, and oil and gas extraction",Ward 20,45,2021
+Utilities,Ward 20,230,2021
+Construction,Ward 20,3000,2021
+Manufacturing,Ward 20,3315,2021
+Wholesale trade,Ward 20,1340,2021
+Retail trade,Ward 20,5435,2021
+Transportation and warehousing,Ward 20,3215,2021
+Information and cultural industries,Ward 20,1815,2021
+Finance and insurance,Ward 20,3820,2021
+Real estate and rental and leasing,Ward 20,1420,2021
+"Professional, scientific and technical services",Ward 20,5180,2021
+Management of companies and enterprises,Ward 20,280,2021
+"Administrative and support, waste management and remediation services",Ward 20,3200,2021
+Educational services,Ward 20,3675,2021
+Health care and social assistance,Ward 20,6925,2021
+"Arts, entertainment and recreation",Ward 20,1040,2021
+Accommodation and food services,Ward 20,3865,2021
+Other services (except public administration),Ward 20,2230,2021
+Public administration,Ward 20,2225,2021
+All industry categories,Ward 21,53490,2021
+"Agriculture, forestry, fishing and hunting",Ward 21,95,2021
+"Mining, quarrying, and oil and gas extraction",Ward 21,55,2021
+Utilities,Ward 21,225,2021
+Construction,Ward 21,2945,2021
+Manufacturing,Ward 21,4845,2021
+Wholesale trade,Ward 21,1730,2021
+Retail trade,Ward 21,6215,2021
+Transportation and warehousing,Ward 21,3360,2021
+Information and cultural industries,Ward 21,1505,2021
+Finance and insurance,Ward 21,4045,2021
+Real estate and rental and leasing,Ward 21,1275,2021
+"Professional, scientific and technical services",Ward 21,4475,2021
+Management of companies and enterprises,Ward 21,230,2021
+"Administrative and support, waste management and remediation services",Ward 21,3820,2021
+Educational services,Ward 21,3180,2021
+Health care and social assistance,Ward 21,7075,2021
+"Arts, entertainment and recreation",Ward 21,670,2021
+Accommodation and food services,Ward 21,4025,2021
+Other services (except public administration),Ward 21,2125,2021
+Public administration,Ward 21,1595,2021
+All industry categories,Ward 22,47030,2021
+"Agriculture, forestry, fishing and hunting",Ward 22,75,2021
+"Mining, quarrying, and oil and gas extraction",Ward 22,30,2021
+Utilities,Ward 22,240,2021
+Construction,Ward 22,2440,2021
+Manufacturing,Ward 22,4830,2021
+Wholesale trade,Ward 22,1850,2021
+Retail trade,Ward 22,5490,2021
+Transportation and warehousing,Ward 22,2335,2021
+Information and cultural industries,Ward 22,1215,2021
+Finance and insurance,Ward 22,3705,2021
+Real estate and rental and leasing,Ward 22,1155,2021
+"Professional, scientific and technical services",Ward 22,4995,2021
+Management of companies and enterprises,Ward 22,210,2021
+"Administrative and support, waste management and remediation services",Ward 22,2730,2021
+Educational services,Ward 22,2805,2021
+Health care and social assistance,Ward 22,5260,2021
+"Arts, entertainment and recreation",Ward 22,575,2021
+Accommodation and food services,Ward 22,3600,2021
+Other services (except public administration),Ward 22,2015,2021
+Public administration,Ward 22,1460,2021
+All industry categories,Ward 23,43195,2021
+"Agriculture, forestry, fishing and hunting",Ward 23,65,2021
+"Mining, quarrying, and oil and gas extraction",Ward 23,35,2021
+Utilities,Ward 23,130,2021
+Construction,Ward 23,2345,2021
+Manufacturing,Ward 23,5310,2021
+Wholesale trade,Ward 23,1860,2021
+Retail trade,Ward 23,5150,2021
+Transportation and warehousing,Ward 23,2345,2021
+Information and cultural industries,Ward 23,1090,2021
+Finance and insurance,Ward 23,3260,2021
+Real estate and rental and leasing,Ward 23,845,2021
+"Professional, scientific and technical services",Ward 23,3730,2021
+Management of companies and enterprises,Ward 23,145,2021
+"Administrative and support, waste management and remediation services",Ward 23,2550,2021
+Educational services,Ward 23,2365,2021
+Health care and social assistance,Ward 23,4655,2021
+"Arts, entertainment and recreation",Ward 23,455,2021
+Accommodation and food services,Ward 23,3950,2021
+Other services (except public administration),Ward 23,1660,2021
+Public administration,Ward 23,1250,2021
+All industry categories,Ward 24,47520,2021
+"Agriculture, forestry, fishing and hunting",Ward 24,55,2021
+"Mining, quarrying, and oil and gas extraction",Ward 24,35,2021
+Utilities,Ward 24,190,2021
+Construction,Ward 24,2300,2021
+Manufacturing,Ward 24,4500,2021
+Wholesale trade,Ward 24,1320,2021
+Retail trade,Ward 24,5550,2021
+Transportation and warehousing,Ward 24,3125,2021
+Information and cultural industries,Ward 24,1275,2021
+Finance and insurance,Ward 24,3285,2021
+Real estate and rental and leasing,Ward 24,985,2021
+"Professional, scientific and technical services",Ward 24,4010,2021
+Management of companies and enterprises,Ward 24,180,2021
+"Administrative and support, waste management and remediation services",Ward 24,3605,2021
+Educational services,Ward 24,2930,2021
+Health care and social assistance,Ward 24,6515,2021
+"Arts, entertainment and recreation",Ward 24,670,2021
+Accommodation and food services,Ward 24,3415,2021
+Other services (except public administration),Ward 24,1945,2021
+Public administration,Ward 24,1635,2021
+All industry categories,Ward 25,49760,2021
+"Agriculture, forestry, fishing and hunting",Ward 25,85,2021
+"Mining, quarrying, and oil and gas extraction",Ward 25,30,2021
+Utilities,Ward 25,460,2021
+Construction,Ward 25,2550,2021
+Manufacturing,Ward 25,4315,2021
+Wholesale trade,Ward 25,1420,2021
+Retail trade,Ward 25,5255,2021
+Transportation and warehousing,Ward 25,3115,2021
+Information and cultural industries,Ward 25,1515,2021
+Finance and insurance,Ward 25,4145,2021
+Real estate and rental and leasing,Ward 25,1080,2021
+"Professional, scientific and technical services",Ward 25,4335,2021
+Management of companies and enterprises,Ward 25,310,2021
+"Administrative and support, waste management and remediation services",Ward 25,3330,2021
+Educational services,Ward 25,3355,2021
+Health care and social assistance,Ward 25,6510,2021
+"Arts, entertainment and recreation",Ward 25,890,2021
+Accommodation and food services,Ward 25,2915,2021
+Other services (except public administration),Ward 25,1895,2021
+Public administration,Ward 25,2250,2021

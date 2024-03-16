@@ -8,6 +8,7 @@ df4 = pd.read_csv('AverageRentByNeighbourhood2019.csv', na_values='**')
 df5 = pd.read_csv('AverageRentByNeighbourhood2020.csv', na_values='**')
 df6 = pd.read_csv('AverageRentByNeighbourhood2021.csv', na_values='**')
 
+# adding the year columns
 df1 = df1.drop(df1.columns[[2, 4, 6, 8, 10]], axis=1)
 df1['Year'] = 2016
 
@@ -26,8 +27,10 @@ df5['Year'] = 2020
 df6 = df6.drop(df6.columns[[2, 4, 6, 8, 10]], axis=1)
 df6['Year'] = 2021
 
+# concat all years together
 concatenated_df = pd.concat([df1, df2, df3, df4, df5, df6], ignore_index=True)
 
+# data type changes and cleaning
 concatenated_df['Bachelor'] = concatenated_df['Bachelor'].str.replace(',', '').replace('', pd.NA).astype('Int64')
 concatenated_df['1 Bedroom'] = concatenated_df['1 Bedroom'].str.replace(',', '').replace('', pd.NA).astype('Int64')
 concatenated_df['2 Bedroom'] = concatenated_df['2 Bedroom'].str.replace(',', '').replace('', pd.NA).astype('Int64')
@@ -38,8 +41,7 @@ concatenated_df['Total'] = concatenated_df['Total'].str.replace(',', '').replace
 concatenated_df['Neighbourhoods'] = concatenated_df['Neighbourhoods'].astype(str)
 
 
-print(concatenated_df.dtypes)
-#concatenated_df.to_csv('AverageRentByNeighbourhood2016-2021.csv', index=False)
+concatenated_df.to_csv('RentDimension.csv', index=False)
 
 # EXTRACTING BUILDING PERMITS
 buildingPermits = pd.read_csv('clearedpermits2016.csv',low_memory=False)
@@ -73,6 +75,7 @@ columns_to_drop.extend(combined_buildingPermits.columns[start_col_index:end_col_
 # drop the columns
 combined_buildingPermits.drop(columns=columns_to_drop, axis=1, inplace=True)
 
+
 statuses_to_remove = [
     "Pending Cancellation",
     "Application Withdrawn",
@@ -92,6 +95,7 @@ combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['S
 #print("WORK TYPES:")
 #unique_work_types = combined_buildingPermits['WORK'].unique()
 
+# STRUCTURE TYPE
 print("number of rows:", len(combined_buildingPermits))
 not_included = [
     'Office', 'SFD: P/D/F/E/R Drains', 'Industrial Warehouse/Hazardous Building', 
@@ -100,7 +104,7 @@ not_included = [
     'P/D/F/E/R Drains: all other buildings', 'Parking Garage Repairs (all other)', 'Grandstand',
     'Residential Porches', 'Residential Decks', 'Repair Garage', 'Converted House', 'Industrial - Shell',
     'Laundromat', 'Third Party', 'Storage Room', 'Convent/Monastery', 'Police Station with Detention',
-    'Manufacturing - MMPF', 'Undertaking Premises', '2 Unit - Detached', '2 Unit - Semi-detached',
+    'Manufacturing - MMPF', 'Undertaking Premises',
     'Self-Service Storage Building', 'Triplex/Semi-Detached', 'Courtroom', 'Distillery', 
     'Dry Cleaning/Laundry Plant', 'Printing Plant', 'Dry Cleaning Depot',
     'Police Station with No Detention', 'Live/Work Unit', 'Unknown', 'Group D & E', 'SFD Access. Structures',
@@ -216,8 +220,7 @@ no_work_types = [
 
 combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['WORK'].isin(no_work_types)]
 
-print("number of rows:", len(combined_buildingPermits))
-print(combined_buildingPermits.columns)
+#print("number of rows:", len(combined_buildingPermits))
 
 # changing data types
 combined_buildingPermits['ISSUED_DATE'] = pd.to_datetime(combined_buildingPermits['ISSUED_DATE'])
@@ -243,17 +246,19 @@ combined_buildingPermits['DESCRIPTION'] = combined_buildingPermits['DESCRIPTION'
 combined_buildingPermits['STATUS'] = combined_buildingPermits['STATUS'].astype(str)
 
 
+# output final building permit dimension
+combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
 
-print("number of rows:", len(combined_buildingPermits))
 
-
-closed_permits = combined_buildingPermits[combined_buildingPermits['STATUS'] == 'Closed']
+#print("number of rows:", len(combined_b]
 
 # Calculate the number of duplicate PERMIT_NUM values in the filtered DataFrame
-number_of_closed_duplicates = closed_permits['PERMIT_NUM'].duplicated().sum()
+#number_of_closed_duplicates = closed_permits['PERMIT_NUM'].duplicated().sum()
 
-print(f"Number of duplicated PERMIT_NUM values with STATUS 'Closed': {number_of_closed_duplicates}")
+#print(f"Number of duplicated PERMIT_NUM values with STATUS 'Closed': {number_of_closed_duplicates}")
 
 #closer look into duplicate entries for permit number
 #duplicates_df = combined_buildingPermits[combined_buildingPermits.duplicated('PERMIT_NUM', keep=False)]
 #duplicates_df.to_csv('duplicates.csv', index=False)
+
+

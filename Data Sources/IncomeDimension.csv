@@ -1,0 +1,833 @@
+Income,Ward_ID,Population,Year
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Toronto,2294785,2016
+Without total income,Toronto,107560,2016
+With total income,Toronto,2187225,2016
+"Under $10,000 (including loss)",Toronto,388570,2016
+"$10,000 to $19,999",Toronto,411160,2016
+"$20,000 to $29,999",Toronto,290580,2016
+"$30,000 to $39,999",Toronto,221505,2016
+"$40,000 to $49,999",Toronto,188475,2016
+"$50,000 to $59,999",Toronto,144180,2016
+"$60,000 to $69,999",Toronto,114915,2016
+"$70,000 to $79,999",Toronto,89780,2016
+"$80,000 to $89,999",Toronto,69855,2016
+"$90,000 to $99,999",Toronto,58180,2016
+"$100,000 and over",Toronto,210030,2016
+"$100,000 to $149,999",Toronto,119810,2016
+"$150,000 and over",Toronto,90220,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 1,95290,2016
+Without total income,Ward 1,5845,2016
+With total income,Ward 1,89445,2016
+"Under $10,000 (including loss)",Ward 1,18485,2016
+"$10,000 to $19,999",Ward 1,20100,2016
+"$20,000 to $29,999",Ward 1,14395,2016
+"$30,000 to $39,999",Ward 1,11015,2016
+"$40,000 to $49,999",Ward 1,8635,2016
+"$50,000 to $59,999",Ward 1,5675,2016
+"$60,000 to $69,999",Ward 1,3700,2016
+"$70,000 to $79,999",Ward 1,2570,2016
+"$80,000 to $89,999",Ward 1,1570,2016
+"$90,000 to $99,999",Ward 1,1230,2016
+"$100,000 and over",Ward 1,2065,2016
+"$100,000 to $149,999",Ward 1,1680,2016
+"$150,000 and over",Ward 1,395,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 2,98785,2016
+Without total income,Ward 2,4110,2016
+With total income,Ward 2,94675,2016
+"Under $10,000 (including loss)",Ward 2,13910,2016
+"$10,000 to $19,999",Ward 2,14750,2016
+"$20,000 to $29,999",Ward 2,11945,2016
+"$30,000 to $39,999",Ward 2,9280,2016
+"$40,000 to $49,999",Ward 2,8445,2016
+"$50,000 to $59,999",Ward 2,7065,2016
+"$60,000 to $69,999",Ward 2,6165,2016
+"$70,000 to $79,999",Ward 2,4665,2016
+"$80,000 to $89,999",Ward 2,3800,2016
+"$90,000 to $99,999",Ward 2,3380,2016
+"$100,000 and over",Ward 2,11260,2016
+"$100,000 to $149,999",Ward 2,6305,2016
+"$150,000 and over",Ward 2,4965,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 3,110720,2016
+Without total income,Ward 3,3750,2016
+With total income,Ward 3,106965,2016
+"Under $10,000 (including loss)",Ward 3,14865,2016
+"$10,000 to $19,999",Ward 3,16495,2016
+"$20,000 to $29,999",Ward 3,12630,2016
+"$30,000 to $39,999",Ward 3,10600,2016
+"$40,000 to $49,999",Ward 3,9860,2016
+"$50,000 to $59,999",Ward 3,8010,2016
+"$60,000 to $69,999",Ward 3,6965,2016
+"$70,000 to $79,999",Ward 3,5505,2016
+"$80,000 to $89,999",Ward 3,4550,2016
+"$90,000 to $99,999",Ward 3,3770,2016
+"$100,000 and over",Ward 3,13720,2016
+"$100,000 to $149,999",Ward 3,8100,2016
+"$150,000 and over",Ward 3,5620,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 4,90625,2016
+Without total income,Ward 4,3245,2016
+With total income,Ward 4,87380,2016
+"Under $10,000 (including loss)",Ward 4,12630,2016
+"$10,000 to $19,999",Ward 4,14210,2016
+"$20,000 to $29,999",Ward 4,10670,2016
+"$30,000 to $39,999",Ward 4,8150,2016
+"$40,000 to $49,999",Ward 4,7585,2016
+"$50,000 to $59,999",Ward 4,6075,2016
+"$60,000 to $69,999",Ward 4,5305,2016
+"$70,000 to $79,999",Ward 4,4165,2016
+"$80,000 to $89,999",Ward 4,3330,2016
+"$90,000 to $99,999",Ward 4,3105,2016
+"$100,000 and over",Ward 4,12145,2016
+"$100,000 to $149,999",Ward 4,6680,2016
+"$150,000 and over",Ward 4,5465,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 5,95660,2016
+Without total income,Ward 5,5175,2016
+With total income,Ward 5,90485,2016
+"Under $10,000 (including loss)",Ward 5,15900,2016
+"$10,000 to $19,999",Ward 5,20005,2016
+"$20,000 to $29,999",Ward 5,14965,2016
+"$30,000 to $39,999",Ward 5,11305,2016
+"$40,000 to $49,999",Ward 5,8695,2016
+"$50,000 to $59,999",Ward 5,6200,2016
+"$60,000 to $69,999",Ward 5,4355,2016
+"$70,000 to $79,999",Ward 5,2725,2016
+"$80,000 to $89,999",Ward 5,2175,2016
+"$90,000 to $99,999",Ward 5,1505,2016
+"$100,000 and over",Ward 5,2655,2016
+"$100,000 to $149,999",Ward 5,2140,2016
+"$150,000 and over",Ward 5,520,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 6,88040,2016
+Without total income,Ward 6,4235,2016
+With total income,Ward 6,83805,2016
+"Under $10,000 (including loss)",Ward 6,14110,2016
+"$10,000 to $19,999",Ward 6,17505,2016
+"$20,000 to $29,999",Ward 6,13575,2016
+"$30,000 to $39,999",Ward 6,9915,2016
+"$40,000 to $49,999",Ward 6,7865,2016
+"$50,000 to $59,999",Ward 6,5360,2016
+"$60,000 to $69,999",Ward 6,3875,2016
+"$70,000 to $79,999",Ward 6,2765,2016
+"$80,000 to $89,999",Ward 6,2165,2016
+"$90,000 to $99,999",Ward 6,1685,2016
+"$100,000 and over",Ward 6,4985,2016
+"$100,000 to $149,999",Ward 6,3075,2016
+"$150,000 and over",Ward 6,1910,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 7,87560,2016
+Without total income,Ward 7,5415,2016
+With total income,Ward 7,82145,2016
+"Under $10,000 (including loss)",Ward 7,16870,2016
+"$10,000 to $19,999",Ward 7,19855,2016
+"$20,000 to $29,999",Ward 7,14250,2016
+"$30,000 to $39,999",Ward 7,10440,2016
+"$40,000 to $49,999",Ward 7,7885,2016
+"$50,000 to $59,999",Ward 7,4940,2016
+"$60,000 to $69,999",Ward 7,2875,2016
+"$70,000 to $79,999",Ward 7,1790,2016
+"$80,000 to $89,999",Ward 7,1190,2016
+"$90,000 to $99,999",Ward 7,810,2016
+"$100,000 and over",Ward 7,1240,2016
+"$100,000 to $149,999",Ward 7,1020,2016
+"$150,000 and over",Ward 7,215,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 8,92465,2016
+Without total income,Ward 8,4495,2016
+With total income,Ward 8,87970,2016
+"Under $10,000 (including loss)",Ward 8,13180,2016
+"$10,000 to $19,999",Ward 8,13510,2016
+"$20,000 to $29,999",Ward 8,11120,2016
+"$30,000 to $39,999",Ward 8,8665,2016
+"$40,000 to $49,999",Ward 8,7225,2016
+"$50,000 to $59,999",Ward 8,5415,2016
+"$60,000 to $69,999",Ward 8,4405,2016
+"$70,000 to $79,999",Ward 8,3445,2016
+"$80,000 to $89,999",Ward 8,2780,2016
+"$90,000 to $99,999",Ward 8,2375,2016
+"$100,000 and over",Ward 8,15845,2016
+"$100,000 to $149,999",Ward 8,6540,2016
+"$150,000 and over",Ward 8,9305,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 9,93955,2016
+Without total income,Ward 9,3180,2016
+With total income,Ward 9,90775,2016
+"Under $10,000 (including loss)",Ward 9,13805,2016
+"$10,000 to $19,999",Ward 9,18375,2016
+"$20,000 to $29,999",Ward 9,13745,2016
+"$30,000 to $39,999",Ward 9,10045,2016
+"$40,000 to $49,999",Ward 9,8475,2016
+"$50,000 to $59,999",Ward 9,6275,2016
+"$60,000 to $69,999",Ward 9,5235,2016
+"$70,000 to $79,999",Ward 9,4220,2016
+"$80,000 to $89,999",Ward 9,2945,2016
+"$90,000 to $99,999",Ward 9,2145,2016
+"$100,000 and over",Ward 9,5500,2016
+"$100,000 to $149,999",Ward 9,4070,2016
+"$150,000 and over",Ward 9,1435,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 10,106895,2016
+Without total income,Ward 10,2260,2016
+With total income,Ward 10,104630,2016
+"Under $10,000 (including loss)",Ward 10,13455,2016
+"$10,000 to $19,999",Ward 10,13310,2016
+"$20,000 to $29,999",Ward 10,9625,2016
+"$30,000 to $39,999",Ward 10,8390,2016
+"$40,000 to $49,999",Ward 10,8940,2016
+"$50,000 to $59,999",Ward 10,8175,2016
+"$60,000 to $69,999",Ward 10,7895,2016
+"$70,000 to $79,999",Ward 10,7295,2016
+"$80,000 to $89,999",Ward 10,5785,2016
+"$90,000 to $99,999",Ward 10,4490,2016
+"$100,000 and over",Ward 10,17270,2016
+"$100,000 to $149,999",Ward 10,10595,2016
+"$150,000 and over",Ward 10,6675,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 11,91375,2016
+Without total income,Ward 11,2845,2016
+With total income,Ward 11,88535,2016
+"Under $10,000 (including loss)",Ward 11,16250,2016
+"$10,000 to $19,999",Ward 11,13535,2016
+"$20,000 to $29,999",Ward 11,9835,2016
+"$30,000 to $39,999",Ward 11,7170,2016
+"$40,000 to $49,999",Ward 11,6500,2016
+"$50,000 to $59,999",Ward 11,5230,2016
+"$60,000 to $69,999",Ward 11,4350,2016
+"$70,000 to $79,999",Ward 11,4060,2016
+"$80,000 to $89,999",Ward 11,3145,2016
+"$90,000 to $99,999",Ward 11,2770,2016
+"$100,000 and over",Ward 11,15690,2016
+"$100,000 to $149,999",Ward 11,6770,2016
+"$150,000 and over",Ward 11,8915,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 12,92245,2016
+Without total income,Ward 12,3000,2016
+With total income,Ward 12,89245,2016
+"Under $10,000 (including loss)",Ward 12,12125,2016
+"$10,000 to $19,999",Ward 12,12900,2016
+"$20,000 to $29,999",Ward 12,10225,2016
+"$30,000 to $39,999",Ward 12,7855,2016
+"$40,000 to $49,999",Ward 12,7570,2016
+"$50,000 to $59,999",Ward 12,6165,2016
+"$60,000 to $69,999",Ward 12,5220,2016
+"$70,000 to $79,999",Ward 12,4550,2016
+"$80,000 to $89,999",Ward 12,3640,2016
+"$90,000 to $99,999",Ward 12,2915,2016
+"$100,000 and over",Ward 12,16085,2016
+"$100,000 to $149,999",Ward 12,7100,2016
+"$150,000 and over",Ward 12,8980,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 13,91410,2016
+Without total income,Ward 13,3030,2016
+With total income,Ward 13,88375,2016
+"Under $10,000 (including loss)",Ward 13,16300,2016
+"$10,000 to $19,999",Ward 13,16910,2016
+"$20,000 to $29,999",Ward 13,9805,2016
+"$30,000 to $39,999",Ward 13,7715,2016
+"$40,000 to $49,999",Ward 13,7160,2016
+"$50,000 to $59,999",Ward 13,5650,2016
+"$60,000 to $69,999",Ward 13,4975,2016
+"$70,000 to $79,999",Ward 13,4215,2016
+"$80,000 to $89,999",Ward 13,3460,2016
+"$90,000 to $99,999",Ward 13,2730,2016
+"$100,000 and over",Ward 13,9450,2016
+"$100,000 to $149,999",Ward 13,5805,2016
+"$150,000 and over",Ward 13,3645,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 14,88795,2016
+Without total income,Ward 14,3095,2016
+With total income,Ward 14,85700,2016
+"Under $10,000 (including loss)",Ward 14,12860,2016
+"$10,000 to $19,999",Ward 14,15905,2016
+"$20,000 to $29,999",Ward 14,10155,2016
+"$30,000 to $39,999",Ward 14,7450,2016
+"$40,000 to $49,999",Ward 14,6490,2016
+"$50,000 to $59,999",Ward 14,5505,2016
+"$60,000 to $69,999",Ward 14,4775,2016
+"$70,000 to $79,999",Ward 14,3845,2016
+"$80,000 to $89,999",Ward 14,3510,2016
+"$90,000 to $99,999",Ward 14,3265,2016
+"$100,000 and over",Ward 14,11935,2016
+"$100,000 to $149,999",Ward 14,7160,2016
+"$150,000 and over",Ward 14,4775,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 15,82625,2016
+Without total income,Ward 15,4565,2016
+With total income,Ward 15,78060,2016
+"Under $10,000 (including loss)",Ward 15,12720,2016
+"$10,000 to $19,999",Ward 15,11605,2016
+"$20,000 to $29,999",Ward 15,7605,2016
+"$30,000 to $39,999",Ward 15,5830,2016
+"$40,000 to $49,999",Ward 15,5365,2016
+"$50,000 to $59,999",Ward 15,4595,2016
+"$60,000 to $69,999",Ward 15,3975,2016
+"$70,000 to $79,999",Ward 15,3300,2016
+"$80,000 to $89,999",Ward 15,2920,2016
+"$90,000 to $99,999",Ward 15,2570,2016
+"$100,000 and over",Ward 15,17565,2016
+"$100,000 to $149,999",Ward 15,7170,2016
+"$150,000 and over",Ward 15,10395,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 16,78080,2016
+Without total income,Ward 16,4710,2016
+With total income,Ward 16,73370,2016
+"Under $10,000 (including loss)",Ward 16,13480,2016
+"$10,000 to $19,999",Ward 16,14045,2016
+"$20,000 to $29,999",Ward 16,10355,2016
+"$30,000 to $39,999",Ward 16,8070,2016
+"$40,000 to $49,999",Ward 16,6530,2016
+"$50,000 to $59,999",Ward 16,5050,2016
+"$60,000 to $69,999",Ward 16,3850,2016
+"$70,000 to $79,999",Ward 16,2985,2016
+"$80,000 to $89,999",Ward 16,2100,2016
+"$90,000 to $99,999",Ward 16,1750,2016
+"$100,000 and over",Ward 16,5155,2016
+"$100,000 to $149,999",Ward 16,3465,2016
+"$150,000 and over",Ward 16,1690,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 17,94405,2016
+Without total income,Ward 17,5155,2016
+With total income,Ward 17,89255,2016
+"Under $10,000 (including loss)",Ward 17,19580,2016
+"$10,000 to $19,999",Ward 17,16730,2016
+"$20,000 to $29,999",Ward 17,11430,2016
+"$30,000 to $39,999",Ward 17,8440,2016
+"$40,000 to $49,999",Ward 17,7265,2016
+"$50,000 to $59,999",Ward 17,5425,2016
+"$60,000 to $69,999",Ward 17,4555,2016
+"$70,000 to $79,999",Ward 17,3490,2016
+"$80,000 to $89,999",Ward 17,2880,2016
+"$90,000 to $99,999",Ward 17,2300,2016
+"$100,000 and over",Ward 17,7165,2016
+"$100,000 to $149,999",Ward 17,4780,2016
+"$150,000 and over",Ward 17,2380,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 18,103860,2016
+Without total income,Ward 18,5895,2016
+With total income,Ward 18,97960,2016
+"Under $10,000 (including loss)",Ward 18,24205,2016
+"$10,000 to $19,999",Ward 18,17520,2016
+"$20,000 to $29,999",Ward 18,10875,2016
+"$30,000 to $39,999",Ward 18,8395,2016
+"$40,000 to $49,999",Ward 18,6930,2016
+"$50,000 to $59,999",Ward 18,5870,2016
+"$60,000 to $69,999",Ward 18,4715,2016
+"$70,000 to $79,999",Ward 18,4070,2016
+"$80,000 to $89,999",Ward 18,3290,2016
+"$90,000 to $99,999",Ward 18,2800,2016
+"$100,000 and over",Ward 18,9300,2016
+"$100,000 to $149,999",Ward 18,5940,2016
+"$150,000 and over",Ward 18,3355,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 19,89250,2016
+Without total income,Ward 19,3925,2016
+With total income,Ward 19,85320,2016
+"Under $10,000 (including loss)",Ward 19,13575,2016
+"$10,000 to $19,999",Ward 19,14775,2016
+"$20,000 to $29,999",Ward 19,10135,2016
+"$30,000 to $39,999",Ward 19,7990,2016
+"$40,000 to $49,999",Ward 19,6780,2016
+"$50,000 to $59,999",Ward 19,5735,2016
+"$60,000 to $69,999",Ward 19,4665,2016
+"$70,000 to $79,999",Ward 19,4030,2016
+"$80,000 to $89,999",Ward 19,3270,2016
+"$90,000 to $99,999",Ward 19,3175,2016
+"$100,000 and over",Ward 19,11185,2016
+"$100,000 to $149,999",Ward 19,6455,2016
+"$150,000 and over",Ward 19,4730,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 20,89655,2016
+Without total income,Ward 20,5070,2016
+With total income,Ward 20,84585,2016
+"Under $10,000 (including loss)",Ward 20,15920,2016
+"$10,000 to $19,999",Ward 20,17805,2016
+"$20,000 to $29,999",Ward 20,12130,2016
+"$30,000 to $39,999",Ward 20,9245,2016
+"$40,000 to $49,999",Ward 20,7720,2016
+"$50,000 to $59,999",Ward 20,5460,2016
+"$60,000 to $69,999",Ward 20,4300,2016
+"$70,000 to $79,999",Ward 20,3090,2016
+"$80,000 to $89,999",Ward 20,2195,2016
+"$90,000 to $99,999",Ward 20,2115,2016
+"$100,000 and over",Ward 20,4615,2016
+"$100,000 to $149,999",Ward 20,3175,2016
+"$150,000 and over",Ward 20,1430,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 21,92275,2016
+Without total income,Ward 21,5265,2016
+With total income,Ward 21,87010,2016
+"Under $10,000 (including loss)",Ward 21,17205,2016
+"$10,000 to $19,999",Ward 21,18455,2016
+"$20,000 to $29,999",Ward 21,13775,2016
+"$30,000 to $39,999",Ward 21,10755,2016
+"$40,000 to $49,999",Ward 21,8370,2016
+"$50,000 to $59,999",Ward 21,5900,2016
+"$60,000 to $69,999",Ward 21,4065,2016
+"$70,000 to $79,999",Ward 21,2900,2016
+"$80,000 to $89,999",Ward 21,1790,2016
+"$90,000 to $99,999",Ward 21,1335,2016
+"$100,000 and over",Ward 21,2470,2016
+"$100,000 to $149,999",Ward 21,2050,2016
+"$150,000 and over",Ward 21,420,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 22,89925,2016
+Without total income,Ward 22,4580,2016
+With total income,Ward 22,85350,2016
+"Under $10,000 (including loss)",Ward 22,18565,2016
+"$10,000 to $19,999",Ward 22,20460,2016
+"$20,000 to $29,999",Ward 22,13030,2016
+"$30,000 to $39,999",Ward 22,8995,2016
+"$40,000 to $49,999",Ward 22,6815,2016
+"$50,000 to $59,999",Ward 22,4945,2016
+"$60,000 to $69,999",Ward 22,3595,2016
+"$70,000 to $79,999",Ward 22,2425,2016
+"$80,000 to $89,999",Ward 22,1925,2016
+"$90,000 to $99,999",Ward 22,1330,2016
+"$100,000 and over",Ward 22,3265,2016
+"$100,000 to $149,999",Ward 22,2480,2016
+"$150,000 and over",Ward 22,780,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 23,82745,2016
+Without total income,Ward 23,4885,2016
+With total income,Ward 23,77855,2016
+"Under $10,000 (including loss)",Ward 23,17805,2016
+"$10,000 to $19,999",Ward 23,19395,2016
+"$20,000 to $29,999",Ward 23,11950,2016
+"$30,000 to $39,999",Ward 23,8420,2016
+"$40,000 to $49,999",Ward 23,6310,2016
+"$50,000 to $59,999",Ward 23,4360,2016
+"$60,000 to $69,999",Ward 23,3095,2016
+"$70,000 to $79,999",Ward 23,1985,2016
+"$80,000 to $89,999",Ward 23,1410,2016
+"$90,000 to $99,999",Ward 23,1120,2016
+"$100,000 and over",Ward 23,2000,2016
+"$100,000 to $149,999",Ward 23,1650,2016
+"$150,000 and over",Ward 23,350,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 24,83080,2016
+Without total income,Ward 24,5030,2016
+With total income,Ward 24,78050,2016
+"Under $10,000 (including loss)",Ward 24,16070,2016
+"$10,000 to $19,999",Ward 24,17405,2016
+"$20,000 to $29,999",Ward 24,11910,2016
+"$30,000 to $39,999",Ward 24,8800,2016
+"$40,000 to $49,999",Ward 24,7255,2016
+"$50,000 to $59,999",Ward 24,4885,2016
+"$60,000 to $69,999",Ward 24,3495,2016
+"$70,000 to $79,999",Ward 24,2500,2016
+"$80,000 to $89,999",Ward 24,1790,2016
+"$90,000 to $99,999",Ward 24,1330,2016
+"$100,000 and over",Ward 24,2615,2016
+"$100,000 to $149,999",Ward 24,1955,2016
+"$150,000 and over",Ward 24,665,2016
+Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 25,85060,2016
+Without total income,Ward 25,4795,2016
+With total income,Ward 25,80265,2016
+"Under $10,000 (including loss)",Ward 25,14670,2016
+"$10,000 to $19,999",Ward 25,15585,2016
+"$20,000 to $29,999",Ward 25,10450,2016
+"$30,000 to $39,999",Ward 25,8560,2016
+"$40,000 to $49,999",Ward 25,7805,2016
+"$50,000 to $59,999",Ward 25,6240,2016
+"$60,000 to $69,999",Ward 25,4520,2016
+"$70,000 to $79,999",Ward 25,3185,2016
+"$80,000 to $89,999",Ward 25,2230,2016
+"$90,000 to $99,999",Ward 25,2170,2016
+"$100,000 and over",Ward 25,4845,2016
+"$100,000 to $149,999",Ward 25,3630,2016
+"$150,000 and over",Ward 25,1215,2016
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Toronto,2377945,2021
+Without total income,Toronto,109225,2021
+With total income,Toronto,2268720,2021
+"Under $10,000 (including loss)",Toronto,211940,2021
+"$10,000 to $19,999",Toronto,278160,2021
+"$20,000 to $29,999",Toronto,383770,2021
+"$30,000 to $39,999",Toronto,279875,2021
+"$40,000 to $49,999",Toronto,222750,2021
+"$50,000 to $59,999",Toronto,176220,2021
+"$60,000 to $69,999",Toronto,137275,2021
+"$70,000 to $79,999",Toronto,111795,2021
+"$80,000 to $89,999",Toronto,90025,2021
+"$90,000 to $99,999",Toronto,73170,2021
+"$100,000 and over",Toronto,303740,2021
+"$100,000 to $149,999",Toronto,175210,2021
+"$150,000 and over",Toronto,128530,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 1,96625,2021
+Without total income,Ward 1,5280,2021
+With total income,Ward 1,91340,2021
+"Under $10,000 (including loss)",Ward 1,9150,2021
+"$10,000 to $19,999",Ward 1,13965,2021
+"$20,000 to $29,999",Ward 1,18750,2021
+"$30,000 to $39,999",Ward 1,13890,2021
+"$40,000 to $49,999",Ward 1,10745,2021
+"$50,000 to $59,999",Ward 1,7880,2021
+"$60,000 to $69,999",Ward 1,5275,2021
+"$70,000 to $79,999",Ward 1,3665,2021
+"$80,000 to $89,999",Ward 1,2585,2021
+"$90,000 to $99,999",Ward 1,1695,2021
+"$100,000 and over",Ward 1,3740,2021
+"$100,000 to $149,999",Ward 1,2870,2021
+"$150,000 and over",Ward 1,875,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 2,99900,2021
+Without total income,Ward 2,3785,2021
+With total income,Ward 2,96115,2021
+"Under $10,000 (including loss)",Ward 2,8065,2021
+"$10,000 to $19,999",Ward 2,10465,2021
+"$20,000 to $29,999",Ward 2,14690,2021
+"$30,000 to $39,999",Ward 2,10705,2021
+"$40,000 to $49,999",Ward 2,8760,2021
+"$50,000 to $59,999",Ward 2,8150,2021
+"$60,000 to $69,999",Ward 2,6225,2021
+"$70,000 to $79,999",Ward 2,5290,2021
+"$80,000 to $89,999",Ward 2,4285,2021
+"$90,000 to $99,999",Ward 2,3430,2021
+"$100,000 and over",Ward 2,16045,2021
+"$100,000 to $149,999",Ward 2,9385,2021
+"$150,000 and over",Ward 2,6665,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 3,121460,2021
+Without total income,Ward 3,4185,2021
+With total income,Ward 3,117275,2021
+"Under $10,000 (including loss)",Ward 3,8535,2021
+"$10,000 to $19,999",Ward 3,11720,2021
+"$20,000 to $29,999",Ward 3,16945,2021
+"$30,000 to $39,999",Ward 3,12760,2021
+"$40,000 to $49,999",Ward 3,11220,2021
+"$50,000 to $59,999",Ward 3,9010,2021
+"$60,000 to $69,999",Ward 3,8290,2021
+"$70,000 to $79,999",Ward 3,6970,2021
+"$80,000 to $89,999",Ward 3,5970,2021
+"$90,000 to $99,999",Ward 3,4935,2021
+"$100,000 and over",Ward 3,20920,2021
+"$100,000 to $149,999",Ward 3,12205,2021
+"$150,000 and over",Ward 3,8715,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 4,89695,2021
+Without total income,Ward 4,3320,2021
+With total income,Ward 4,86380,2021
+"Under $10,000 (including loss)",Ward 4,6890,2021
+"$10,000 to $19,999",Ward 4,8935,2021
+"$20,000 to $29,999",Ward 4,12510,2021
+"$30,000 to $39,999",Ward 4,9740,2021
+"$40,000 to $49,999",Ward 4,7730,2021
+"$50,000 to $59,999",Ward 4,6175,2021
+"$60,000 to $69,999",Ward 4,5450,2021
+"$70,000 to $79,999",Ward 4,4540,2021
+"$80,000 to $89,999",Ward 4,3760,2021
+"$90,000 to $99,999",Ward 4,3345,2021
+"$100,000 and over",Ward 4,17300,2021
+"$100,000 to $149,999",Ward 4,9165,2021
+"$150,000 and over",Ward 4,8140,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 5,97205,2021
+Without total income,Ward 5,5050,2021
+With total income,Ward 5,92155,2021
+"Under $10,000 (including loss)",Ward 5,7885,2021
+"$10,000 to $19,999",Ward 5,12940,2021
+"$20,000 to $29,999",Ward 5,18345,2021
+"$30,000 to $39,999",Ward 5,13650,2021
+"$40,000 to $49,999",Ward 5,10820,2021
+"$50,000 to $59,999",Ward 5,8055,2021
+"$60,000 to $69,999",Ward 5,5610,2021
+"$70,000 to $79,999",Ward 5,4065,2021
+"$80,000 to $89,999",Ward 5,3220,2021
+"$90,000 to $99,999",Ward 5,2120,2021
+"$100,000 and over",Ward 5,5455,2021
+"$100,000 to $149,999",Ward 5,4305,2021
+"$150,000 and over",Ward 5,1150,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 6,91800,2021
+Without total income,Ward 6,3890,2021
+With total income,Ward 6,87915,2021
+"Under $10,000 (including loss)",Ward 6,7960,2021
+"$10,000 to $19,999",Ward 6,11115,2021
+"$20,000 to $29,999",Ward 6,16430,2021
+"$30,000 to $39,999",Ward 6,12225,2021
+"$40,000 to $49,999",Ward 6,10300,2021
+"$50,000 to $59,999",Ward 6,7715,2021
+"$60,000 to $69,999",Ward 6,5365,2021
+"$70,000 to $79,999",Ward 6,3925,2021
+"$80,000 to $89,999",Ward 6,3115,2021
+"$90,000 to $99,999",Ward 6,2240,2021
+"$100,000 and over",Ward 6,7530,2021
+"$100,000 to $149,999",Ward 6,4745,2021
+"$150,000 and over",Ward 6,2785,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 7,92435,2021
+Without total income,Ward 7,5740,2021
+With total income,Ward 7,86690,2021
+"Under $10,000 (including loss)",Ward 7,8965,2021
+"$10,000 to $19,999",Ward 7,13025,2021
+"$20,000 to $29,999",Ward 7,19310,2021
+"$30,000 to $39,999",Ward 7,13435,2021
+"$40,000 to $49,999",Ward 7,10845,2021
+"$50,000 to $59,999",Ward 7,7595,2021
+"$60,000 to $69,999",Ward 7,4785,2021
+"$70,000 to $79,999",Ward 7,3065,2021
+"$80,000 to $89,999",Ward 7,2030,2021
+"$90,000 to $99,999",Ward 7,1245,2021
+"$100,000 and over",Ward 7,2395,2021
+"$100,000 to $149,999",Ward 7,1980,2021
+"$150,000 and over",Ward 7,420,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 8,95710,2021
+Without total income,Ward 8,4135,2021
+With total income,Ward 8,91575,2021
+"Under $10,000 (including loss)",Ward 8,8595,2021
+"$10,000 to $19,999",Ward 8,9580,2021
+"$20,000 to $29,999",Ward 8,13945,2021
+"$30,000 to $39,999",Ward 8,9835,2021
+"$40,000 to $49,999",Ward 8,8435,2021
+"$50,000 to $59,999",Ward 8,6580,2021
+"$60,000 to $69,999",Ward 8,5205,2021
+"$70,000 to $79,999",Ward 8,4250,2021
+"$80,000 to $89,999",Ward 8,3175,2021
+"$90,000 to $99,999",Ward 8,2930,2021
+"$100,000 and over",Ward 8,19045,2021
+"$100,000 to $149,999",Ward 8,8065,2021
+"$150,000 and over",Ward 8,10980,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 9,91635,2021
+Without total income,Ward 9,3360,2021
+With total income,Ward 9,88275,2021
+"Under $10,000 (including loss)",Ward 9,6815,2021
+"$10,000 to $19,999",Ward 9,10275,2021
+"$20,000 to $29,999",Ward 9,15220,2021
+"$30,000 to $39,999",Ward 9,11390,2021
+"$40,000 to $49,999",Ward 9,8840,2021
+"$50,000 to $59,999",Ward 9,6735,2021
+"$60,000 to $69,999",Ward 9,5830,2021
+"$70,000 to $79,999",Ward 9,4895,2021
+"$80,000 to $89,999",Ward 9,3940,2021
+"$90,000 to $99,999",Ward 9,3280,2021
+"$100,000 and over",Ward 9,11070,2021
+"$100,000 to $149,999",Ward 9,7270,2021
+"$150,000 and over",Ward 9,3800,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 10,126130,2021
+Without total income,Ward 10,4325,2021
+With total income,Ward 10,121805,2021
+"Under $10,000 (including loss)",Ward 10,8715,2021
+"$10,000 to $19,999",Ward 10,10230,2021
+"$20,000 to $29,999",Ward 10,14050,2021
+"$30,000 to $39,999",Ward 10,10755,2021
+"$40,000 to $49,999",Ward 10,9520,2021
+"$50,000 to $59,999",Ward 10,9095,2021
+"$60,000 to $69,999",Ward 10,8790,2021
+"$70,000 to $79,999",Ward 10,8425,2021
+"$80,000 to $89,999",Ward 10,7620,2021
+"$90,000 to $99,999",Ward 10,6450,2021
+"$100,000 and over",Ward 10,28155,2021
+"$100,000 to $149,999",Ward 10,16920,2021
+"$150,000 and over",Ward 10,11230,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 11,93395,2021
+Without total income,Ward 11,3410,2021
+With total income,Ward 11,89985,2021
+"Under $10,000 (including loss)",Ward 11,8765,2021
+"$10,000 to $19,999",Ward 11,8945,2021
+"$20,000 to $29,999",Ward 11,12665,2021
+"$30,000 to $39,999",Ward 11,9320,2021
+"$40,000 to $49,999",Ward 11,7300,2021
+"$50,000 to $59,999",Ward 11,5975,2021
+"$60,000 to $69,999",Ward 11,5090,2021
+"$70,000 to $79,999",Ward 11,4850,2021
+"$80,000 to $89,999",Ward 11,3790,2021
+"$90,000 to $99,999",Ward 11,3215,2021
+"$100,000 and over",Ward 11,20085,2021
+"$100,000 to $149,999",Ward 11,8790,2021
+"$150,000 and over",Ward 11,11290,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 12,100640,2021
+Without total income,Ward 12,3595,2021
+With total income,Ward 12,97045,2021
+"Under $10,000 (including loss)",Ward 12,7895,2021
+"$10,000 to $19,999",Ward 12,8575,2021
+"$20,000 to $29,999",Ward 12,13040,2021
+"$30,000 to $39,999",Ward 12,9975,2021
+"$40,000 to $49,999",Ward 12,8925,2021
+"$50,000 to $59,999",Ward 12,7475,2021
+"$60,000 to $69,999",Ward 12,6510,2021
+"$70,000 to $79,999",Ward 12,5310,2021
+"$80,000 to $89,999",Ward 12,4555,2021
+"$90,000 to $99,999",Ward 12,3875,2021
+"$100,000 and over",Ward 12,20910,2021
+"$100,000 to $149,999",Ward 12,9765,2021
+"$150,000 and over",Ward 12,11150,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 13,107625,2021
+Without total income,Ward 13,4395,2021
+With total income,Ward 13,103230,2021
+"Under $10,000 (including loss)",Ward 13,9895,2021
+"$10,000 to $19,999",Ward 13,12045,2021
+"$20,000 to $29,999",Ward 13,17125,2021
+"$30,000 to $39,999",Ward 13,11980,2021
+"$40,000 to $49,999",Ward 13,9220,2021
+"$50,000 to $59,999",Ward 13,7410,2021
+"$60,000 to $69,999",Ward 13,6200,2021
+"$70,000 to $79,999",Ward 13,5515,2021
+"$80,000 to $89,999",Ward 13,4925,2021
+"$90,000 to $99,999",Ward 13,3790,2021
+"$100,000 and over",Ward 13,15115,2021
+"$100,000 to $149,999",Ward 13,9200,2021
+"$150,000 and over",Ward 13,5920,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 14,88375,2021
+Without total income,Ward 14,2980,2021
+With total income,Ward 14,85390,2021
+"Under $10,000 (including loss)",Ward 14,6660,2021
+"$10,000 to $19,999",Ward 14,9780,2021
+"$20,000 to $29,999",Ward 14,13505,2021
+"$30,000 to $39,999",Ward 14,8990,2021
+"$40,000 to $49,999",Ward 14,6920,2021
+"$50,000 to $59,999",Ward 14,5780,2021
+"$60,000 to $69,999",Ward 14,4530,2021
+"$70,000 to $79,999",Ward 14,4260,2021
+"$80,000 to $89,999",Ward 14,3820,2021
+"$90,000 to $99,999",Ward 14,3560,2021
+"$100,000 and over",Ward 14,17585,2021
+"$100,000 to $149,999",Ward 14,9670,2021
+"$150,000 and over",Ward 14,7915,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 15,83725,2021
+Without total income,Ward 15,4470,2021
+With total income,Ward 15,79260,2021
+"Under $10,000 (including loss)",Ward 15,8680,2021
+"$10,000 to $19,999",Ward 15,8250,2021
+"$20,000 to $29,999",Ward 15,10555,2021
+"$30,000 to $39,999",Ward 15,7765,2021
+"$40,000 to $49,999",Ward 15,5945,2021
+"$50,000 to $59,999",Ward 15,4785,2021
+"$60,000 to $69,999",Ward 15,4120,2021
+"$70,000 to $79,999",Ward 15,3540,2021
+"$80,000 to $89,999",Ward 15,3060,2021
+"$90,000 to $99,999",Ward 15,2760,2021
+"$100,000 and over",Ward 15,19800,2021
+"$100,000 to $149,999",Ward 15,7890,2021
+"$150,000 and over",Ward 15,11910,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 16,79750,2021
+Without total income,Ward 16,3975,2021
+With total income,Ward 16,75775,2021
+"Under $10,000 (including loss)",Ward 16,7340,2021
+"$10,000 to $19,999",Ward 16,10015,2021
+"$20,000 to $29,999",Ward 16,13565,2021
+"$30,000 to $39,999",Ward 16,10075,2021
+"$40,000 to $49,999",Ward 16,7905,2021
+"$50,000 to $59,999",Ward 16,6300,2021
+"$60,000 to $69,999",Ward 16,4505,2021
+"$70,000 to $79,999",Ward 16,3705,2021
+"$80,000 to $89,999",Ward 16,2840,2021
+"$90,000 to $99,999",Ward 16,2145,2021
+"$100,000 and over",Ward 16,7380,2021
+"$100,000 to $149,999",Ward 16,4760,2021
+"$150,000 and over",Ward 16,2625,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 17,98430,2021
+Without total income,Ward 17,5020,2021
+With total income,Ward 17,93410,2021
+"Under $10,000 (including loss)",Ward 17,10780,2021
+"$10,000 to $19,999",Ward 17,12095,2021
+"$20,000 to $29,999",Ward 17,15705,2021
+"$30,000 to $39,999",Ward 17,11050,2021
+"$40,000 to $49,999",Ward 17,8860,2021
+"$50,000 to $59,999",Ward 17,7150,2021
+"$60,000 to $69,999",Ward 17,5610,2021
+"$70,000 to $79,999",Ward 17,4700,2021
+"$80,000 to $89,999",Ward 17,4020,2021
+"$90,000 to $99,999",Ward 17,3235,2021
+"$100,000 and over",Ward 17,10200,2021
+"$100,000 to $149,999",Ward 17,7020,2021
+"$150,000 and over",Ward 17,3175,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 18,103695,2021
+Without total income,Ward 18,6070,2021
+With total income,Ward 18,97625,2021
+"Under $10,000 (including loss)",Ward 18,12495,2021
+"$10,000 to $19,999",Ward 18,12795,2021
+"$20,000 to $29,999",Ward 18,15655,2021
+"$30,000 to $39,999",Ward 18,11105,2021
+"$40,000 to $49,999",Ward 18,8460,2021
+"$50,000 to $59,999",Ward 18,6720,2021
+"$60,000 to $69,999",Ward 18,5485,2021
+"$70,000 to $79,999",Ward 18,4460,2021
+"$80,000 to $89,999",Ward 18,3870,2021
+"$90,000 to $99,999",Ward 18,3325,2021
+"$100,000 and over",Ward 18,13255,2021
+"$100,000 to $149,999",Ward 18,8495,2021
+"$150,000 and over",Ward 18,4755,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 19,89815,2021
+Without total income,Ward 19,3995,2021
+With total income,Ward 19,85815,2021
+"Under $10,000 (including loss)",Ward 19,7165,2021
+"$10,000 to $19,999",Ward 19,9880,2021
+"$20,000 to $29,999",Ward 19,13265,2021
+"$30,000 to $39,999",Ward 19,9355,2021
+"$40,000 to $49,999",Ward 19,7615,2021
+"$50,000 to $59,999",Ward 19,6100,2021
+"$60,000 to $69,999",Ward 19,5010,2021
+"$70,000 to $79,999",Ward 19,4395,2021
+"$80,000 to $89,999",Ward 19,3615,2021
+"$90,000 to $99,999",Ward 19,3375,2021
+"$100,000 and over",Ward 19,16045,2021
+"$100,000 to $149,999",Ward 19,8990,2021
+"$150,000 and over",Ward 19,7055,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 20,91965,2021
+Without total income,Ward 20,4845,2021
+With total income,Ward 20,87125,2021
+"Under $10,000 (including loss)",Ward 20,8100,2021
+"$10,000 to $19,999",Ward 20,11990,2021
+"$20,000 to $29,999",Ward 20,16560,2021
+"$30,000 to $39,999",Ward 20,11800,2021
+"$40,000 to $49,999",Ward 20,8985,2021
+"$50,000 to $59,999",Ward 20,7100,2021
+"$60,000 to $69,999",Ward 20,5305,2021
+"$70,000 to $79,999",Ward 20,4095,2021
+"$80,000 to $89,999",Ward 20,3160,2021
+"$90,000 to $99,999",Ward 20,2380,2021
+"$100,000 and over",Ward 20,7645,2021
+"$100,000 to $149,999",Ward 20,5220,2021
+"$150,000 and over",Ward 20,2425,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 21,94590,2021
+Without total income,Ward 21,5240,2021
+With total income,Ward 21,89350,2021
+"Under $10,000 (including loss)",Ward 21,8965,2021
+"$10,000 to $19,999",Ward 21,12075,2021
+"$20,000 to $29,999",Ward 21,17525,2021
+"$30,000 to $39,999",Ward 21,13975,2021
+"$40,000 to $49,999",Ward 21,10310,2021
+"$50,000 to $59,999",Ward 21,7730,2021
+"$60,000 to $69,999",Ward 21,5665,2021
+"$70,000 to $79,999",Ward 21,3810,2021
+"$80,000 to $89,999",Ward 21,2835,2021
+"$90,000 to $99,999",Ward 21,2110,2021
+"$100,000 and over",Ward 21,4345,2021
+"$100,000 to $149,999",Ward 21,3570,2021
+"$150,000 and over",Ward 21,770,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 22,90395,2021
+Without total income,Ward 22,4560,2021
+With total income,Ward 22,85830,2021
+"Under $10,000 (including loss)",Ward 22,9580,2021
+"$10,000 to $19,999",Ward 22,13255,2021
+"$20,000 to $29,999",Ward 22,18060,2021
+"$30,000 to $39,999",Ward 22,11915,2021
+"$40,000 to $49,999",Ward 22,8845,2021
+"$50,000 to $59,999",Ward 22,6685,2021
+"$60,000 to $69,999",Ward 22,4445,2021
+"$70,000 to $79,999",Ward 22,3430,2021
+"$80,000 to $89,999",Ward 22,2515,2021
+"$90,000 to $99,999",Ward 22,1950,2021
+"$100,000 and over",Ward 22,5150,2021
+"$100,000 to $149,999",Ward 22,3780,2021
+"$150,000 and over",Ward 22,1370,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 23,80930,2021
+Without total income,Ward 23,4310,2021
+With total income,Ward 23,76620,2021
+"Under $10,000 (including loss)",Ward 23,8410,2021
+"$10,000 to $19,999",Ward 23,12885,2021
+"$20,000 to $29,999",Ward 23,16380,2021
+"$30,000 to $39,999",Ward 23,11335,2021
+"$40,000 to $49,999",Ward 23,8290,2021
+"$50,000 to $59,999",Ward 23,5770,2021
+"$60,000 to $69,999",Ward 23,3910,2021
+"$70,000 to $79,999",Ward 23,2950,2021
+"$80,000 to $89,999",Ward 23,1990,2021
+"$90,000 to $99,999",Ward 23,1490,2021
+"$100,000 and over",Ward 23,3220,2021
+"$100,000 to $149,999",Ward 23,2605,2021
+"$150,000 and over",Ward 23,620,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 24,85580,2021
+Without total income,Ward 24,5110,2021
+With total income,Ward 24,80475,2021
+"Under $10,000 (including loss)",Ward 24,7880,2021
+"$10,000 to $19,999",Ward 24,12200,2021
+"$20,000 to $29,999",Ward 24,15810,2021
+"$30,000 to $39,999",Ward 24,11845,2021
+"$40,000 to $49,999",Ward 24,9250,2021
+"$50,000 to $59,999",Ward 24,6955,2021
+"$60,000 to $69,999",Ward 24,4585,2021
+"$70,000 to $79,999",Ward 24,3475,2021
+"$80,000 to $89,999",Ward 24,2315,2021
+"$90,000 to $99,999",Ward 24,1705,2021
+"$100,000 and over",Ward 24,4440,2021
+"$100,000 to $149,999",Ward 24,3445,2021
+"$150,000 and over",Ward 24,1000,2021
+Total - Total income groups in 2020 for the population aged 15 years and over in private households - 25% sample data,Ward 25,86450,2021
+Without total income,Ward 25,4180,2021
+With total income,Ward 25,82270,2021
+"Under $10,000 (including loss)",Ward 25,7775,2021
+"$10,000 to $19,999",Ward 25,11135,2021
+"$20,000 to $29,999",Ward 25,14170,2021
+"$30,000 to $39,999",Ward 25,11005,2021
+"$40,000 to $49,999",Ward 25,8720,2021
+"$50,000 to $59,999",Ward 25,7290,2021
+"$60,000 to $69,999",Ward 25,5475,2021
+"$70,000 to $79,999",Ward 25,4200,2021
+"$80,000 to $89,999",Ward 25,3000,2021
+"$90,000 to $99,999",Ward 25,2590,2021
+"$100,000 and over",Ward 25,6910,2021
+"$100,000 to $149,999",Ward 25,5100,2021
+"$150,000 and over",Ward 25,1810,2021
