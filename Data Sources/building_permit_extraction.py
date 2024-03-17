@@ -1,47 +1,8 @@
 import pandas as pd
+from sqlalchemy import create_engine, text
 
-# EXTRACTING AVERAGE RENTS
-df1 = pd.read_csv('AverageRentByNeighbourhood2016.csv', na_values='**')
-df2 = pd.read_csv('AverageRentByNeighbourhood2017.csv', na_values='**')
-df3 = pd.read_csv('AverageRentByNeighbourhood2018.csv', na_values='**')
-df4 = pd.read_csv('AverageRentByNeighbourhood2019.csv', na_values='**')
-df5 = pd.read_csv('AverageRentByNeighbourhood2020.csv', na_values='**')
-df6 = pd.read_csv('AverageRentByNeighbourhood2021.csv', na_values='**')
-
-# adding the year columns
-df1 = df1.drop(df1.columns[[2, 4, 6, 8, 10]], axis=1)
-df1['Year'] = 2016
-
-df2 = df2.drop(df2.columns[[2, 4, 6, 8, 10]], axis=1)
-df2['Year'] = 2017
-
-df3 = df3.drop(df3.columns[[2, 4, 6, 8, 10]], axis=1)
-df3['Year'] = 2018
-
-df4 = df4.drop(df4.columns[[2, 4, 6, 8, 10]], axis=1)
-df4['Year'] = 2019
-
-df5 = df5.drop(df5.columns[[2, 4, 6, 8, 10]], axis=1)
-df5['Year'] = 2020
-
-df6 = df6.drop(df6.columns[[2, 4, 6, 8, 10]], axis=1)
-df6['Year'] = 2021
-
-# concat all years together
-concatenated_df = pd.concat([df1, df2, df3, df4, df5, df6], ignore_index=True)
-
-# data type changes and cleaning
-concatenated_df['Bachelor'] = concatenated_df['Bachelor'].str.replace(',', '').replace('', pd.NA).astype('Int64')
-concatenated_df['1 Bedroom'] = concatenated_df['1 Bedroom'].str.replace(',', '').replace('', pd.NA).astype('Int64')
-concatenated_df['2 Bedroom'] = concatenated_df['2 Bedroom'].str.replace(',', '').replace('', pd.NA).astype('Int64')
-concatenated_df['3 Bedroom +'] = concatenated_df['3 Bedroom +'].str.replace(',', '').replace('', pd.NA).astype('Int64')
-concatenated_df['Total'] = concatenated_df['Total'].str.replace(',', '').replace('', pd.NA).astype('Int64')
-
-# changing to string
-concatenated_df['Neighbourhoods'] = concatenated_df['Neighbourhoods'].astype(str)
-
-
-concatenated_df.to_csv('RentDimension.csv', index=False)
+#connection to PostgreSQL database
+engine = create_engine('postgresql+psycopg2://postgres:Bucnuoa!@localhost:5432/main')
 
 # EXTRACTING BUILDING PERMITS
 buildingPermits = pd.read_csv('clearedpermits2016.csv',low_memory=False)
@@ -247,8 +208,30 @@ combined_buildingPermits['STATUS'] = combined_buildingPermits['STATUS'].astype(s
 
 
 # output final building permit dimension
-combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
+#combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
 
+
+with engine.connect() as conn:
+    # load dataframe to database
+    combined_buildingPermits.to_sql('BuildingPermitDimension', engine, if_exists='replace', index=False)
+    
+    # Then add the surrogate key column
+    conn.execute(text("""
+        DO $$
+        BEGIN
+            IF NOT EXISTS (
+                SELECT FROM information_schema.columns 
+                WHERE table_schema = 'public' 
+                AND table_name   = 'BuildingPermitDimension' 
+                AND column_name  = 'Permit_Key'
+            ) THEN
+                ALTER TABLE public."BuildingPermitDimension"
+                ADD COLUMN Permit_Key serial PRIMARY KEY;
+            END IF;
+        END
+        $$;
+    """))
+    conn.execute(text("SELECT setval('Permit_Key', (SELECT MAX(Permit_Key) FROM public.\"BuildingPermitDimension\"));"))
 
 #print("number of rows:", len(combined_b]
 
@@ -261,4 +244,5 @@ combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
 #duplicates_df = combined_buildingPermits[combined_buildingPermits.duplicated('PERMIT_NUM', keep=False)]
 #duplicates_df.to_csv('duplicates.csv', index=False)
 
-
+# Close the engine connection when done
+engine.dispose()

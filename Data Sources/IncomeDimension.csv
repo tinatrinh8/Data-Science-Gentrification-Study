@@ -1,5 +1,5 @@
 Income,Ward_ID,Population,Year
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Toronto,2294785,2016
+Total Income Groups,Toronto,2294785,2016
 Without total income,Toronto,107560,2016
 With total income,Toronto,2187225,2016
 "Under $10,000 (including loss)",Toronto,388570,2016
@@ -15,7 +15,7 @@ With total income,Toronto,2187225,2016
 "$100,000 and over",Toronto,210030,2016
 "$100,000 to $149,999",Toronto,119810,2016
 "$150,000 and over",Toronto,90220,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 1,95290,2016
+Total Income Groups,Ward 1,95290,2016
 Without total income,Ward 1,5845,2016
 With total income,Ward 1,89445,2016
 "Under $10,000 (including loss)",Ward 1,18485,2016
@@ -31,7 +31,7 @@ With total income,Ward 1,89445,2016
 "$100,000 and over",Ward 1,2065,2016
 "$100,000 to $149,999",Ward 1,1680,2016
 "$150,000 and over",Ward 1,395,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 2,98785,2016
+Total Income Groups,Ward 2,98785,2016
 Without total income,Ward 2,4110,2016
 With total income,Ward 2,94675,2016
 "Under $10,000 (including loss)",Ward 2,13910,2016
@@ -47,7 +47,7 @@ With total income,Ward 2,94675,2016
 "$100,000 and over",Ward 2,11260,2016
 "$100,000 to $149,999",Ward 2,6305,2016
 "$150,000 and over",Ward 2,4965,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 3,110720,2016
+Total Income Groups,Ward 3,110720,2016
 Without total income,Ward 3,3750,2016
 With total income,Ward 3,106965,2016
 "Under $10,000 (including loss)",Ward 3,14865,2016
@@ -63,7 +63,7 @@ With total income,Ward 3,106965,2016
 "$100,000 and over",Ward 3,13720,2016
 "$100,000 to $149,999",Ward 3,8100,2016
 "$150,000 and over",Ward 3,5620,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 4,90625,2016
+Total Income Groups,Ward 4,90625,2016
 Without total income,Ward 4,3245,2016
 With total income,Ward 4,87380,2016
 "Under $10,000 (including loss)",Ward 4,12630,2016
@@ -79,7 +79,7 @@ With total income,Ward 4,87380,2016
 "$100,000 and over",Ward 4,12145,2016
 "$100,000 to $149,999",Ward 4,6680,2016
 "$150,000 and over",Ward 4,5465,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 5,95660,2016
+Total Income Groups,Ward 5,95660,2016
 Without total income,Ward 5,5175,2016
 With total income,Ward 5,90485,2016
 "Under $10,000 (including loss)",Ward 5,15900,2016
@@ -95,7 +95,7 @@ With total income,Ward 5,90485,2016
 "$100,000 and over",Ward 5,2655,2016
 "$100,000 to $149,999",Ward 5,2140,2016
 "$150,000 and over",Ward 5,520,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 6,88040,2016
+Total Income Groups,Ward 6,88040,2016
 Without total income,Ward 6,4235,2016
 With total income,Ward 6,83805,2016
 "Under $10,000 (including loss)",Ward 6,14110,2016
@@ -111,7 +111,7 @@ With total income,Ward 6,83805,2016
 "$100,000 and over",Ward 6,4985,2016
 "$100,000 to $149,999",Ward 6,3075,2016
 "$150,000 and over",Ward 6,1910,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 7,87560,2016
+Total Income Groups,Ward 7,87560,2016
 Without total income,Ward 7,5415,2016
 With total income,Ward 7,82145,2016
 "Under $10,000 (including loss)",Ward 7,16870,2016
@@ -127,7 +127,7 @@ With total income,Ward 7,82145,2016
 "$100,000 and over",Ward 7,1240,2016
 "$100,000 to $149,999",Ward 7,1020,2016
 "$150,000 and over",Ward 7,215,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 8,92465,2016
+Total Income Groups,Ward 8,92465,2016
 Without total income,Ward 8,4495,2016
 With total income,Ward 8,87970,2016
 "Under $10,000 (including loss)",Ward 8,13180,2016
@@ -143,7 +143,7 @@ With total income,Ward 8,87970,2016
 "$100,000 and over",Ward 8,15845,2016
 "$100,000 to $149,999",Ward 8,6540,2016
 "$150,000 and over",Ward 8,9305,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 9,93955,2016
+Total Income Groups,Ward 9,93955,2016
 Without total income,Ward 9,3180,2016
 With total income,Ward 9,90775,2016
 "Under $10,000 (including loss)",Ward 9,13805,2016
@@ -159,7 +159,7 @@ With total income,Ward 9,90775,2016
 "$100,000 and over",Ward 9,5500,2016
 "$100,000 to $149,999",Ward 9,4070,2016
 "$150,000 and over",Ward 9,1435,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 10,106895,2016
+Total Income Groups,Ward 10,106895,2016
 Without total income,Ward 10,2260,2016
 With total income,Ward 10,104630,2016
 "Under $10,000 (including loss)",Ward 10,13455,2016
@@ -175,7 +175,7 @@ With total income,Ward 10,104630,2016
 "$100,000 and over",Ward 10,17270,2016
 "$100,000 to $149,999",Ward 10,10595,2016
 "$150,000 and over",Ward 10,6675,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 11,91375,2016
+Total Income Groups,Ward 11,91375,2016
 Without total income,Ward 11,2845,2016
 With total income,Ward 11,88535,2016
 "Under $10,000 (including loss)",Ward 11,16250,2016
@@ -191,7 +191,7 @@ With total income,Ward 11,88535,2016
 "$100,000 and over",Ward 11,15690,2016
 "$100,000 to $149,999",Ward 11,6770,2016
 "$150,000 and over",Ward 11,8915,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 12,92245,2016
+Total Income Groups,Ward 12,92245,2016
 Without total income,Ward 12,3000,2016
 With total income,Ward 12,89245,2016
 "Under $10,000 (including loss)",Ward 12,12125,2016
@@ -207,7 +207,7 @@ With total income,Ward 12,89245,2016
 "$100,000 and over",Ward 12,16085,2016
 "$100,000 to $149,999",Ward 12,7100,2016
 "$150,000 and over",Ward 12,8980,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 13,91410,2016
+Total Income Groups,Ward 13,91410,2016
 Without total income,Ward 13,3030,2016
 With total income,Ward 13,88375,2016
 "Under $10,000 (including loss)",Ward 13,16300,2016
@@ -223,7 +223,7 @@ With total income,Ward 13,88375,2016
 "$100,000 and over",Ward 13,9450,2016
 "$100,000 to $149,999",Ward 13,5805,2016
 "$150,000 and over",Ward 13,3645,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 14,88795,2016
+Total Income Groups,Ward 14,88795,2016
 Without total income,Ward 14,3095,2016
 With total income,Ward 14,85700,2016
 "Under $10,000 (including loss)",Ward 14,12860,2016
@@ -239,7 +239,7 @@ With total income,Ward 14,85700,2016
 "$100,000 and over",Ward 14,11935,2016
 "$100,000 to $149,999",Ward 14,7160,2016
 "$150,000 and over",Ward 14,4775,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 15,82625,2016
+Total Income Groups,Ward 15,82625,2016
 Without total income,Ward 15,4565,2016
 With total income,Ward 15,78060,2016
 "Under $10,000 (including loss)",Ward 15,12720,2016
@@ -255,7 +255,7 @@ With total income,Ward 15,78060,2016
 "$100,000 and over",Ward 15,17565,2016
 "$100,000 to $149,999",Ward 15,7170,2016
 "$150,000 and over",Ward 15,10395,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 16,78080,2016
+Total Income Groups,Ward 16,78080,2016
 Without total income,Ward 16,4710,2016
 With total income,Ward 16,73370,2016
 "Under $10,000 (including loss)",Ward 16,13480,2016
@@ -271,7 +271,7 @@ With total income,Ward 16,73370,2016
 "$100,000 and over",Ward 16,5155,2016
 "$100,000 to $149,999",Ward 16,3465,2016
 "$150,000 and over",Ward 16,1690,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 17,94405,2016
+Total Income Groups,Ward 17,94405,2016
 Without total income,Ward 17,5155,2016
 With total income,Ward 17,89255,2016
 "Under $10,000 (including loss)",Ward 17,19580,2016
@@ -287,7 +287,7 @@ With total income,Ward 17,89255,2016
 "$100,000 and over",Ward 17,7165,2016
 "$100,000 to $149,999",Ward 17,4780,2016
 "$150,000 and over",Ward 17,2380,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 18,103860,2016
+Total Income Groups,Ward 18,103860,2016
 Without total income,Ward 18,5895,2016
 With total income,Ward 18,97960,2016
 "Under $10,000 (including loss)",Ward 18,24205,2016
@@ -303,7 +303,7 @@ With total income,Ward 18,97960,2016
 "$100,000 and over",Ward 18,9300,2016
 "$100,000 to $149,999",Ward 18,5940,2016
 "$150,000 and over",Ward 18,3355,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 19,89250,2016
+Total Income Groups,Ward 19,89250,2016
 Without total income,Ward 19,3925,2016
 With total income,Ward 19,85320,2016
 "Under $10,000 (including loss)",Ward 19,13575,2016
@@ -319,7 +319,7 @@ With total income,Ward 19,85320,2016
 "$100,000 and over",Ward 19,11185,2016
 "$100,000 to $149,999",Ward 19,6455,2016
 "$150,000 and over",Ward 19,4730,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 20,89655,2016
+Total Income Groups,Ward 20,89655,2016
 Without total income,Ward 20,5070,2016
 With total income,Ward 20,84585,2016
 "Under $10,000 (including loss)",Ward 20,15920,2016
@@ -335,7 +335,7 @@ With total income,Ward 20,84585,2016
 "$100,000 and over",Ward 20,4615,2016
 "$100,000 to $149,999",Ward 20,3175,2016
 "$150,000 and over",Ward 20,1430,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 21,92275,2016
+Total Income Groups,Ward 21,92275,2016
 Without total income,Ward 21,5265,2016
 With total income,Ward 21,87010,2016
 "Under $10,000 (including loss)",Ward 21,17205,2016
@@ -351,7 +351,7 @@ With total income,Ward 21,87010,2016
 "$100,000 and over",Ward 21,2470,2016
 "$100,000 to $149,999",Ward 21,2050,2016
 "$150,000 and over",Ward 21,420,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 22,89925,2016
+Total Income Groups,Ward 22,89925,2016
 Without total income,Ward 22,4580,2016
 With total income,Ward 22,85350,2016
 "Under $10,000 (including loss)",Ward 22,18565,2016
@@ -367,7 +367,7 @@ With total income,Ward 22,85350,2016
 "$100,000 and over",Ward 22,3265,2016
 "$100,000 to $149,999",Ward 22,2480,2016
 "$150,000 and over",Ward 22,780,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 23,82745,2016
+Total Income Groups,Ward 23,82745,2016
 Without total income,Ward 23,4885,2016
 With total income,Ward 23,77855,2016
 "Under $10,000 (including loss)",Ward 23,17805,2016
@@ -383,7 +383,7 @@ With total income,Ward 23,77855,2016
 "$100,000 and over",Ward 23,2000,2016
 "$100,000 to $149,999",Ward 23,1650,2016
 "$150,000 and over",Ward 23,350,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 24,83080,2016
+Total Income Groups,Ward 24,83080,2016
 Without total income,Ward 24,5030,2016
 With total income,Ward 24,78050,2016
 "Under $10,000 (including loss)",Ward 24,16070,2016
@@ -399,7 +399,7 @@ With total income,Ward 24,78050,2016
 "$100,000 and over",Ward 24,2615,2016
 "$100,000 to $149,999",Ward 24,1955,2016
 "$150,000 and over",Ward 24,665,2016
-Total - Total income groups in 2015 for the population aged 15 years and over in private households - 25% sample data,Ward 25,85060,2016
+Total Income Groups,Ward 25,85060,2016
 Without total income,Ward 25,4795,2016
 With total income,Ward 25,80265,2016
 "Under $10,000 (including loss)",Ward 25,14670,2016
