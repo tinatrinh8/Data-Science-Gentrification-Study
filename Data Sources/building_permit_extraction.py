@@ -206,7 +206,11 @@ combined_buildingPermits['WARD_GRID'] = combined_buildingPermits['WARD_GRID'].as
 combined_buildingPermits['DESCRIPTION'] = combined_buildingPermits['DESCRIPTION'].astype(str)
 combined_buildingPermits['STATUS'] = combined_buildingPermits['STATUS'].astype(str)
 
+# change format of column names
+combined_buildingPermits.columns = ['_'.join(word.capitalize() for word in col.split('_')) for col in combined_buildingPermits.columns]
 
+# Check the new column names
+print(combined_buildingPermits.columns)
 # output final building permit dimension
 #combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
 
