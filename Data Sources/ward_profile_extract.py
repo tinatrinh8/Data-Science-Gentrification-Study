@@ -284,5 +284,109 @@ HouseholdDimension.rename(columns={'Household': 'Household_Description'}, inplac
 # load dataframe to database
 HouseholdDimension.to_sql('HouseholdDimension', engine, if_exists='replace', index=False)
 
+# SHELTER DIMENSION
+# 2021
+# Load the CSV file
+df = pd.read_csv('WardProfile2021.csv', encoding='ISO-8859-1', low_memory=False)
+
+# Define the indices
+tenant_costs_index = 1373
+owner_costs_index = 1377  
+
+tenant_percent_spending = 1374  
+owner_percent_spending = 1378   
+
+tenant_households = 1372
+owner_households = 1376
+
+# Create the Ward_IDs list based on the column headers
+ward_ids = df.columns[1:]
+
+tenant_data = []
+owner_data = []
+
+
+for i, ward_id in enumerate(ward_ids):
+    tenant_data.append({
+        'Household_Type': 'Tenant',
+        'Ward_ID': ward_id,
+        'Total_Households': df.iloc[tenant_households, i + 1],
+        'Average_Monthly_Shelter_Costs': df.iloc[tenant_costs_index, i + 1],  
+        'Percent_Spending_30_Percent_Or_More_On_Shelter': df.iloc[tenant_percent_spending, i + 1]
+    })
+    owner_data.append({
+        'Household_Type': 'Owner',
+        'Ward_ID': ward_id,
+        'Total_Households': df.iloc[owner_households, i + 1],
+        'Average_Monthly_Shelter_Costs': df.iloc[owner_costs_index, i + 1],  
+        'Percent_Spending_30_Percent_Or_More_On_Shelter': df.iloc[owner_percent_spending , i + 1]
+    })
+
+
+# Combine the tenant and owner data
+combined_data = tenant_data + owner_data
+
+# 2016
+# Load the CSV file
+df1 = pd.read_csv('WardProfile2016.csv', encoding='ISO-8859-1', low_memory=False)
+
+# Define the indices
+tenant_costs_index = 1239
+owner_costs_index = 1243 
+
+tenant_percent_spending = 1240
+owner_percent_spending = 1244 
+
+tenant_households = 1238
+owner_households = 1242
+
+# Create the Ward_IDs list based on the column headers
+ward_ids = df1.columns[1:]
+
+tenant_data = []
+owner_data = []
+
+for i, ward_id in enumerate(ward_ids):
+    tenant_data.append({
+        'Household_Type': 'Tenant',
+        'Ward_ID': ward_id,
+        'Total_Households': df1.iloc[tenant_households, i + 1],
+        'Average_Monthly_Shelter_Costs': df1.iloc[tenant_costs_index, i + 1],  
+        'Percent_Spending_30_Percent_Or_More_On_Shelter': df1.iloc[tenant_percent_spending, i + 1]
+    })
+    owner_data.append({
+        'Household_Type': 'Owner',
+        'Ward_ID': ward_id,
+        'Total_Households': df1.iloc[owner_households, i + 1],
+        'Average_Monthly_Shelter_Costs': df1.iloc[owner_costs_index, i + 1],  
+        'Percent_Spending_30_Percent_Or_More_On_Shelter': df1.iloc[owner_percent_spending , i + 1]
+    })
+
+# Combine the tenant and owner data
+combined_data2 = tenant_data + owner_data
+
+# Create the DataFrame
+ShelterDimension2016 = pd.DataFrame(combined_data2)
+ShelterDimension2021 = pd.DataFrame(combined_data)
+
+ShelterDimension2016['Year'] = 2016
+ShelterDimension2021['Year'] = 2021
+
+#merge the datasets
+ShelterDimension = pd.concat([ShelterDimension2016, ShelterDimension2021], ignore_index=True)
+
+# clean data and change data types
+ShelterDimension['Average_Monthly_Shelter_Costs'] = (ShelterDimension['Average_Monthly_Shelter_Costs'].str.replace('$', '').str.replace(',', '').astype(int))
+ShelterDimension['Percent_Spending_30_Percent_Or_More_On_Shelter'] = (ShelterDimension['Percent_Spending_30_Percent_Or_More_On_Shelter'].str.replace('%', '').astype(float))
+ShelterDimension['Total_Households'] = (ShelterDimension['Total_Households'].astype(int))
+ShelterDimension['Household_Type'] = ShelterDimension['Household_Type'].astype(str)
+ShelterDimension['Ward_ID'] = ShelterDimension['Ward_ID'].astype(str)
+
+# confirm the output
+#ShelterDimension.to_csv('ShelterDimension.csv', index=False)
+
+# load dataframe to database
+ShelterDimension.to_sql('ShelterDimension', engine, if_exists='replace', index=False)
+
 # Close the engine connection when done
 engine.dispose()

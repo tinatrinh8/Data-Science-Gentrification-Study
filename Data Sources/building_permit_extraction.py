@@ -209,33 +209,11 @@ combined_buildingPermits['STATUS'] = combined_buildingPermits['STATUS'].astype(s
 # change format of column names
 combined_buildingPermits.columns = ['_'.join(word.capitalize() for word in col.split('_')) for col in combined_buildingPermits.columns]
 
-# Check the new column names
-print(combined_buildingPermits.columns)
 # output final building permit dimension
 #combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
 
+combined_buildingPermits.to_sql('BuildingPermitDimension', engine, if_exists='replace', index=False)
 
-with engine.connect() as conn:
-    # load dataframe to database
-    combined_buildingPermits.to_sql('BuildingPermitDimension', engine, if_exists='replace', index=False)
-    
-    # Then add the surrogate key column
-    conn.execute(text("""
-        DO $$
-        BEGIN
-            IF NOT EXISTS (
-                SELECT FROM information_schema.columns 
-                WHERE table_schema = 'public' 
-                AND table_name   = 'BuildingPermitDimension' 
-                AND column_name  = 'Permit_Key'
-            ) THEN
-                ALTER TABLE public."BuildingPermitDimension"
-                ADD COLUMN Permit_Key serial PRIMARY KEY;
-            END IF;
-        END
-        $$;
-    """))
-    conn.execute(text("SELECT setval('Permit_Key', (SELECT MAX(Permit_Key) FROM public.\"BuildingPermitDimension\"));"))
 
 #print("number of rows:", len(combined_b]
 
