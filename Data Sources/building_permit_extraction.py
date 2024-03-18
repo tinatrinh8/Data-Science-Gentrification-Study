@@ -183,7 +183,7 @@ combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['W
 
 #print("number of rows:", len(combined_buildingPermits))
 
-# changing data types
+# changing date types
 combined_buildingPermits['ISSUED_DATE'] = pd.to_datetime(combined_buildingPermits['ISSUED_DATE'])
 combined_buildingPermits['APPLICATION_DATE'] = pd.to_datetime(combined_buildingPermits['APPLICATION_DATE'])
 
