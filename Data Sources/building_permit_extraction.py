@@ -235,5 +235,8 @@ print("number of rows after removing duplicates:", len(combined_buildingPermits)
 
 combined_buildingPermits.to_sql('BuildingPermitDimension', engine, if_exists='replace', index=False)
 
+# output final education dimension
+#combined_buildingPermits.to_csv('BuildingPermitDimension.csv', encoding='ISO-8859-1', index=False)
+
 # Close the engine connection when done
 engine.dispose()
