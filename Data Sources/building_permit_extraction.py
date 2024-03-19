@@ -44,33 +44,29 @@ statuses_to_remove = [
     "Refused",
     "Abandoned",
     "Not Accepted",
-    "VIOLATION"
+    "VIOLATION",
+    "Work Suspended",
+    "Refusal Notice",
+    "Cancelled"
 ]
 
 combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['STATUS'].isin(statuses_to_remove)]
 
 # dropping STRUCTURE_TYPES not useful to analysis
-#print("STRUCTURE TYPES:")
-#unique_structure_types = combined_buildingPermits['STRUCTURE_TYPE'].unique()
-
-#print("WORK TYPES:")
-#unique_work_types = combined_buildingPermits['WORK'].unique()
-
 # STRUCTURE TYPE
-print("number of rows:", len(combined_buildingPermits))
 not_included = [
-    'Office', 'SFD: P/D/F/E/R Drains', 'Industrial Warehouse/Hazardous Building', 
+    'Office', 'Industrial Processing Plant', 'Gas Station/Car Wash/Repair Garage', 'Personal Service Shop', 'Industrial Manufacturing Plant', 'SFD: P/D/F/E/R Drains', 'Industrial Warehouse/Hazardous Building', 
     'Electromagnetic Locks', 'HVAC Alt. add on Sys. or Ductwork Alt.', 'Nursing Home Facility',
-    'Home for the Aged', 'Retaining Wall', 'SFD Garages', 'Piping(all other bldgs):Outside Water..',
-    'P/D/F/E/R Drains: all other buildings', 'Parking Garage Repairs (all other)', 'Grandstand',
+    'Home for the Aged', 'Retaining Wall', 'Industrial', 'SFD Garages', 'Piping(all other bldgs):Outside Water..',
+    'P/D/F/E/R Drains: all other buildings', 'Laboratory', 'Water and Sewage Pumping Stations', 'Warehouse', 'Parking Garage Repairs (all other)', 'Grandstand',
     'Residential Porches', 'Residential Decks', 'Repair Garage', 'Converted House', 'Industrial - Shell',
-    'Laundromat', 'Third Party', 'Storage Room', 'Convent/Monastery', 'Police Station with Detention',
-    'Manufacturing - MMPF', 'Undertaking Premises',
-    'Self-Service Storage Building', 'Triplex/Semi-Detached', 'Courtroom', 'Distillery', 
-    'Dry Cleaning/Laundry Plant', 'Printing Plant', 'Dry Cleaning Depot',
+    'Laundromat', 'Third Party', 'Storage Room', 'Convent/Monastery', 'Police Station with Detention', 'Manufacturing - MMPF ',
+    'Manufacturing - MMPF', 'Undertaking Premises', 'Crematorium/Cemetary Structure', 'Jails/Detention Facility', 
+    'Self-Service Storage Building', 'Triplex/Semi-Detached', 'Courtroom', 'Distillery', 'Car Dealership', 'Power Plant',
+    'Dry Cleaning/Laundry Plant', 'Printing Plant', 'Dry Cleaning Depot', 'Long Term Care Facility', 'Tree  Declaration Form',
     'Police Station with No Detention', 'Live/Work Unit', 'Unknown', 'Group D & E', 'SFD Access. Structures',
-    'Fire Alarms', 'Standpipes', 'Piping(SF) Water Serv., Sanitary/Storm', 'Fireplaces',
-    'HVAC Alt. Boiler/Furn Rplmt. or A/C', 'Exterior Storage Tank', 'Canopy w/o enclosure', 'Sprinklers',
+    'Fire Alarms', 'Standpipes', 'Piping(SF) Water Serv., Sanitary/Storm', 'Fireplaces', 'Registration and Discharge  of Unsafe Order', 'Farm Building',
+ 'MGO Memo To ', 'HVAC Alt. Boiler/Furn Rplmt. or A/C', 'Exterior Storage Tank', 'Canopy w/o enclosure', 'Sprinklers',
     'Underpinning', 'Spray Painting Operation', 'Group F (< 230 m2)', 'Piping(SF):Repair/Rplmt/Add. Pool Drain',
     'HVAC: Special Ventilation System', 'Basements - Finishing - in Dwellings/TH', 'Mixed Comm/Inst./Res',
     'SFD/TH HVAC', 'Balcony Repairs', 'Repairs/Re-cladding Walls, Re-roofing', 'Temporary Buildings',
@@ -94,15 +90,15 @@ not_included = [
 combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['STRUCTURE_TYPE'].isin(not_included)]
 
 no_work_types = [
-    'Install/Alter Plumbing - only',
-    'Partial Permit - Shoring',
-    'Install/Alter HVAC - only',
-    'Building Permit Related(PS)',
-    'Other Proposal',
-    'Fixtures/Roof Drains: Other',
-    'Multiple Projects',
-    'Fixtures/Roof Drains: SFD',
-    'Communication Tower',
+    'Install/Alter Plumbing - only', 'Demolition',
+    'Partial Permit - Shoring', ' Fixtures/Roof Drains: SFD', 'Addition(s) ', 'Porch', 'Garage', 'Deck',
+    'Install/Alter HVAC - only', 'Alter:  Add on /Ductwork', 'Balcony/Guard Repairs',
+    'Building Permit Related(PS)', 'Window Replacement', 'Re-Roofing/Re-Cladding', 'Special Ventilation System',
+    'Other Proposal', 'Carport', 'Change of Use', 'HVAC: Groups  D & E', ' Fixtures/Roof Drains: Other ', 'Finishing Basements',
+    'Fixtures/Roof Drains: Other', 'Certified Portables', 'Non-Certified Portables', 'MGO 565 Remediation',
+    'Multiple Projects', 'New Laneway / Rear Yard Suite', ' Backflow Prevention Devices (Water only)',
+    'Fixtures/Roof Drains: SFD', 'Septic System:  Sewage System',
+    'Communication Tower', 'City Planning',
     'Building Permit Related(MS)',
     'Partial Permit - Foundation',
     'Electromagnetic Locks',
@@ -181,8 +177,6 @@ no_work_types = [
 
 combined_buildingPermits = combined_buildingPermits[~combined_buildingPermits['WORK'].isin(no_work_types)]
 
-#print("number of rows:", len(combined_buildingPermits))
-
 # changing date types
 combined_buildingPermits['ISSUED_DATE'] = pd.to_datetime(combined_buildingPermits['ISSUED_DATE'])
 combined_buildingPermits['APPLICATION_DATE'] = pd.to_datetime(combined_buildingPermits['APPLICATION_DATE'])
@@ -209,22 +203,37 @@ combined_buildingPermits['STATUS'] = combined_buildingPermits['STATUS'].astype(s
 # change format of column names
 combined_buildingPermits.columns = ['_'.join(word.capitalize() for word in col.split('_')) for col in combined_buildingPermits.columns]
 
-# output final building permit dimension
-#combined_buildingPermits.to_csv('BuildingPermitDimension.csv', index=False)
+# print("STRUCTURE TYPES:")
+# unique_structure_types = combined_buildingPermits['Structure_Type'].unique()
+# print(unique_structure_types)
+
+# print("WORK TYPES:")
+# unique_work_types = combined_buildingPermits['Work'].unique()
+# print(unique_work_types)
+
+
+# handling null values
+columns_with_null = combined_buildingPermits.isnull().any()
+# print(columns_with_null)
+
+# dropping rows with null values for 'Structure_Type' and 'Application_Date'
+combined_buildingPermits = combined_buildingPermits.dropna(subset=['Structure_Type'])
+combined_buildingPermits = combined_buildingPermits.dropna(subset=['Application_Date'])
+
+# handling duplicate values for Permit_Num
+print("number of rows before removing duplicates:", len(combined_buildingPermits))
+
+# Calculate the number of duplicate Permit_Num values 
+number_of_duplicates = combined_buildingPermits['Permit_Num'].duplicated().sum()
+print("duplicate permit ids:", number_of_duplicates)
+
+
+# Remove duplicates by keeping only the first occurrence of each 'Permit_Num'
+combined_buildingPermits = combined_buildingPermits.drop_duplicates(subset='Permit_Num', keep='first')
+
+print("number of rows after removing duplicates:", len(combined_buildingPermits))
 
 combined_buildingPermits.to_sql('BuildingPermitDimension', engine, if_exists='replace', index=False)
-
-
-#print("number of rows:", len(combined_b]
-
-# Calculate the number of duplicate PERMIT_NUM values in the filtered DataFrame
-#number_of_closed_duplicates = closed_permits['PERMIT_NUM'].duplicated().sum()
-
-#print(f"Number of duplicated PERMIT_NUM values with STATUS 'Closed': {number_of_closed_duplicates}")
-
-#closer look into duplicate entries for permit number
-#duplicates_df = combined_buildingPermits[combined_buildingPermits.duplicated('PERMIT_NUM', keep=False)]
-#duplicates_df.to_csv('duplicates.csv', index=False)
 
 # Close the engine connection when done
 engine.dispose()
