@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4f503d-6073-4598-9b13-ab78cb3aeb3b" name="Changes" comment="fixed the ward mapping section" />
+    <list default="true" id="6c4f503d-6073-4598-9b13-ab78cb3aeb3b" name="Changes" comment="fixed the ward mapping section">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Sources/geospatial_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Sources/geospatial_analysis.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +72,9 @@
       <updated>1710949801146</updated>
       <workItem from="1710949802508" duration="5724000" />
       <workItem from="1710997555796" duration="633000" />
+      <workItem from="1711000836168" duration="418000" />
+      <workItem from="1711001416448" duration="1200000" />
+      <workItem from="1711002800297" duration="31665000" />
     </task>
     <task id="LOCAL-00001" summary="fixed the ward mapping section">
       <created>1710997724938</created>
@@ -97,5 +103,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed the ward mapping section" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed the ward mapping section" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/serenaiyoha/Documents/CSI4142/CSI4142-Gentrification-Project/Data Sources/geospatial_analysis.ipynb</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
