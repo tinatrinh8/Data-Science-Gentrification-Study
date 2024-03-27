@@ -11,6 +11,6 @@ JOIN
 WHERE
     p."Completed_Date" IS NOT NULL
 GROUP BY 
-    EXTRACT(YEAR FROM p."Completed_Date"), EXTRACT(MONTH FROM p."Completed_Date"), d."Permit_Key", d."Ward_I"
+    EXTRACT(YEAR FROM p."Completed_Date"), EXTRACT(MONTH FROM p."Completed_Date"), d."Permit_Key", d."Ward_ID"
 ORDER BY 
     Year, Month;
