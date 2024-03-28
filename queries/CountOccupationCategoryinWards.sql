@@ -2,7 +2,7 @@ SELECT
     wd."Ward_Name",
     w."Year",
     e."Employment" AS "Occupation_Category",
-    COUNT(*) AS "Count", -- Or use SUM(w."Population") if you're looking to sum up a population figure instead of counting entries
+    COUNT(*) AS "Count", 
     SUM(w."Population") AS "Total_Population_in_Occupation"
 FROM 
     "EmploymentDimension" e

@@ -1,5 +1,5 @@
 SELECT 
-    dt."Date_Key",
+    dt."Year",
     w."Ward_ID",
     COUNT(p."Permit_Key") AS Total_Building_Permits_Completed
 FROM 
@@ -11,4 +11,4 @@ JOIN
 JOIN 
     "WardDimension" w ON d."Ward_ID" = w."Ward_ID"
 GROUP BY 
-    dt."Date_Key", w."Ward_ID";
+    dt."Year", w."Ward_ID";
