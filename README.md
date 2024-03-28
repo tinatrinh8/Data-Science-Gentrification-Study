@@ -2,22 +2,19 @@
 
 Ensure that Python 3.6 or newer is installed on your machine.
 Please install the following libraries with this command:
-pip install pandas numpy sqlalchemy
+pip install pandas sqlalchemy requests Shapely
+
 
 For Windows:
-To work with the project's database, PostgreSQL must be installed on your machine. This will also include the pg_dump tool, which is necessary for database backup and restoration tasks.
-Make sure that the path to PostgreSQL's bin directory is added to your system's PATH environment variable.
+To work with the project's database, PostgreSQL must be installed on your machine. Visit the official PostgreSQL download page and download the Windows installer for PostgreSQL.
 For macOS:
-Open the terminal and run: brew install postgresql
+Open the terminal and run "brew install postgresql" or download the macOS installer from the official PostgreSQL download page.
 
-Verify pg_dump installation:
-open the terminal and run: pg_dump --version
-
-Opening the database:
+Restoring the database:
 Launch pgAdmin, which should have come included with the PostgreSQL installation.
 In the left sidebar, navigate to the "Servers" section and expand it. You should see "PostgreSQL 16". If prompted, enter your password to connect to the server.
-ight-click on "Databases," then select "Create" > "Database...".
-In the "Database" field, enter main as the name of your new database.
+Right-click on "Databases," then select "Create" > "Database...".
+In the "Database" field, enter "main" as the name of the database.
 Click "Save" to create the database.
 Navigate to the newly created main database, right-click on it, and choose "Restore".
 In the "Restore Database" window, you'll need to specify the source file to restore from. Click the "..." button next to the "Filename" field to browse for the file.
