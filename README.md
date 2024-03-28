@@ -2,7 +2,7 @@
 
 Ensure that Python 3.6 or newer is installed on your machine.
 Please install the following libraries with this command:
-pip install pandas sqlalchemy requests Shapely
+pip install pandas sqlalchemy requests Shapely json folium geopandas
 
 
 For Windows:
@@ -20,3 +20,8 @@ Navigate to the newly created main database, right-click on it, and choose "Rest
 In the "Restore Database" window, you'll need to specify the source file to restore from. Click the "..." button next to the "Filename" field to browse for the file.
 Navigate to the project folder where the database.backup file is located, select it, and click "Open".
 Once the file is selected, click "Restore" to begin the restoration process.
+
+For the geospatial analysis:
+This part of the assignment uses the Mapbox API to make geocoding requests. As such, you need to sign up on Mapbox and generate a personal API key to run the program. 
+
+Once the API key is generated, you simply paste to replace the "YOUR API KEY" string in the mapbox_key.json file. From there, you can begin running the geospatial Jupyer Notebook to see the full analysis
