@@ -55,5 +55,3 @@ pip install pandas sqlalchemy requests Shapely json folium geopandas
 └── README.md
 ```
 
-### 🧄 Running the Analysis
-Instructions on how to execute the ETL process, restore the database, and perform the geospatial analysis, including running the Jupyter Notebooks and Python scripts.
