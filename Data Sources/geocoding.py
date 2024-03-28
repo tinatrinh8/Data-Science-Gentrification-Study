@@ -4,7 +4,7 @@ import json
 from shapely import Point
 
 # geocoding using the Mapbox API
-# using the code from https://gist.github.com/thisismattmiller/9f21fd370b784adfe2593e2e2e784b3a
+# starter code: https://gist.github.com/thisismattmiller/9f21fd370b784adfe2593e2e2e784b3a
 access_token = json.load(open('mapbox_key.json'))
 
 
@@ -22,7 +22,7 @@ def geocode(address_string):
     url = f"https://api.mapbox.com/search/geocode/v6/forward?q={lookfor}.json"
 
     response = requests.get(url, params=payload)
-    print(response.status_code)
+    print(response.status_code) #code 200 means that the geocoder is working
     data = json.loads(response.text)
     # print(json.dumps(data, indent=2))
 
