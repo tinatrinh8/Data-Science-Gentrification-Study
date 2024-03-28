@@ -1,4 +1,4 @@
-# CSI4142---Project
+# CSI4142: Toronto Ward Gentrification Study
 
 Ensure that Python 3.6 or newer is installed on your machine.
 Please install the following libraries with this command:
