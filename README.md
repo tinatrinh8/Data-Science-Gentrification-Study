@@ -1,27 +1,59 @@
-# CSI4142: Toronto Ward Gentrification Study
+# CSI4142: Toronto Ward Gentrification Study 🥭🌠🕰️🍄🎨
 
-Ensure that Python 3.6 or newer is installed on your machine.
-Please install the following libraries with this command:
+## 🪄 Phase 2: Physical Design and Data Staging 🪄
+
+### 🚴🏻‍♀️ Overview
+This project is a part of the coursework for CSI4142 at the University of Ottawa. In our research, our focus is on analyzing gentrification across different Toronto neighborhoods by examining contributing factors and finding correlations. The study involves analyzing data related to Age, Education, Ward, Income, Household, Building Permit, Ethnocultural, Employment, Shelter, and Industry to determine their relationship with high and low gentrification levels.
+
+### 🥨 Team Members
+- Serena Iyoha - 300187757
+- Shannon Noah - 300163898
+- Tina Trinh - 300175427
+
+### 🎋 Data Staging Steps (ETL Process)
+- **Extraction**: Data extracted in formats like CSV, XML, or JSON.
+- **Transformation**: Includes data cleaning, conversion, integration, discretization, and feature engineering.
+- **Loading**: Involves generating surrogate keys and loading the integrated/final dataset into a data mart.
+
+### 🐌 Prerequisites
+- Ensure Python 3.6 or newer is installed.
+- PostgreSQL must be installed for database management.
+- For geospatial analysis, a Mapbox API key is required.
+
+### 👒 Required Libraries
+Install the following libraries using pip:
+
+```bash
 pip install pandas sqlalchemy requests Shapely json folium geopandas
+```
 
+### 📙 PostgreSQL Installation
+- **Windows**: Download and install from the [official PostgreSQL download page](https://www.postgresql.org/download/windows/).
+- **macOS**: Use Homebrew with `brew install postgresql`, or download from the [official page](https://www.postgresql.org/download/macosx/).
 
-For Windows:
-To work with the project's database, PostgreSQL must be installed on your machine. Visit the official PostgreSQL download page and download the Windows installer for PostgreSQL.
-For macOS:
-Open the terminal and run "brew install postgresql" or download the macOS installer from the official PostgreSQL download page.
+### 🛩️ Database Setup
+1. Launch pgAdmin and connect to PostgreSQL.
+2. Create a new database named "main".
+3. Restore the database using the `database.backup` file from the project folder.
 
-Restoring the database:
-Launch pgAdmin, which should have come included with the PostgreSQL installation.
-In the left sidebar, navigate to the "Servers" section and expand it. You should see "PostgreSQL 16". If prompted, enter your password to connect to the server.
-Right-click on "Databases," then select "Create" > "Database...".
-In the "Database" field, enter "main" as the name of the database.
-Click "Save" to create the database.
-Navigate to the newly created main database, right-click on it, and choose "Restore".
-In the "Restore Database" window, you'll need to specify the source file to restore from. Click the "..." button next to the "Filename" field to browse for the file.
-Navigate to the project folder where the database.backup file is located, select it, and click "Open".
-Once the file is selected, click "Restore" to begin the restoration process.
+### 🏓 Geospatial Analysis Setup
+1. Sign up on Mapbox and generate a personal API key.
+2. Replace "YOUR API KEY" in the `mapbox_key.json` file with your generated API key.
 
-For the geospatial analysis:
-This part of the assignment uses the Mapbox API to make geocoding requests. As such, you need to sign up on Mapbox and generate a personal API key to run the program. 
+### 🥃 Project Structure
+```plaintext
+.
+├── Data (CSV,JSON)         # Raw data and processed data
+├── Data Sources               
+│   ├── WardProfile.ipynb   # Jupyter notebooks for analysis
+│   ├── BuildingPermit.ipynb
+│   ├── geospatial_analysis.ipynb
+│   └── geocoding.py        # Source code
+├── mapbox_key.json         # Mapbox API key configuration
+├── queries       
+│   └── database.backup     # Database backup file
+└── README.md
+```
 
-Once the API key is generated, you simply paste to replace the "YOUR API KEY" string in the mapbox_key.json file. From there, you can begin running the geospatial Jupyer Notebook to see the full analysis by pressing Run All in your respective IDE
+### 🧄 Running the Analysis
+Instructions on how to execute the ETL process, restore the database, and perform the geospatial analysis, including running the Jupyter Notebooks and Python scripts.
