@@ -36,7 +36,7 @@ pip install pandas sqlalchemy requests Shapely json folium geopandas
 2. Create a new database named "main".
 3. Restore the database using the `database.backup` file from the project folder.
 
-### 🏓 Geospatial Analysis Setup
+### 🌍 Geospatial Analysis Setup
 1. Sign up on Mapbox and generate a personal API key.
 2. Replace "YOUR API KEY" in the `mapbox_key.json` file with your generated API key.
 
