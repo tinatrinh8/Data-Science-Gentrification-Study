@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4f503d-6073-4598-9b13-ab78cb3aeb3b" name="Changes" comment="fixed the ward mapping section">
-      <change afterPath="$PROJECT_DIR$/Data Sources/geocoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Sources/DemolitionDimension.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Sources/geospatial_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Sources/geospatial_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Sources/raw_addresses.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data Sources/raw_addresses.csv" afterDir="false" />
-    </list>
+    <list default="true" id="6c4f503d-6073-4598-9b13-ab78cb3aeb3b" name="Changes" comment="fixed the ward mapping section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +101,7 @@
       <workItem from="1711002800297" duration="32197000" />
       <workItem from="1711466369892" duration="22870000" />
       <workItem from="1711559617784" duration="13141000" />
-      <workItem from="1711588742808" duration="887000" />
+      <workItem from="1711588742808" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="fixed the ward mapping section">
       <created>1710997724938</created>
