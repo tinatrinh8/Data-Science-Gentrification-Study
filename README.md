@@ -24,4 +24,4 @@ Once the file is selected, click "Restore" to begin the restoration process.
 For the geospatial analysis:
 This part of the assignment uses the Mapbox API to make geocoding requests. As such, you need to sign up on Mapbox and generate a personal API key to run the program. 
 
-Once the API key is generated, you simply paste to replace the "YOUR API KEY" string in the mapbox_key.json file. From there, you can begin running the geospatial Jupyer Notebook to see the full analysis
+Once the API key is generated, you simply paste to replace the "YOUR API KEY" string in the mapbox_key.json file. From there, you can begin running the geospatial Jupyer Notebook to see the full analysis by pressing Run All in your respective IDE
