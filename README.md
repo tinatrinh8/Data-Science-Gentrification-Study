@@ -11,7 +11,7 @@ This project is a part of the coursework for CSI4142 at the University of Ottawa
 - Tina Trinh - 300175427
 
 ### 🎋 Data Staging Steps (ETL Process)
-- **Extraction**: Data extracted in formats like CSV, XML, or JSON.
+- **Extraction**: Data extracted from CSVs.
 - **Transformation**: Includes data cleaning, conversion, integration, discretization, and feature engineering.
 - **Loading**: Involves generating surrogate keys and loading the integrated/final dataset into a data mart.
 
