@@ -52,6 +52,8 @@ pip install pandas sqlalchemy requests Shapely json folium geopandas
 ├── mapbox_key.json         # Mapbox API key configuration
 ├── queries       
 │   └── database.backup     # Database backup file
+├── Phase 3 - OLAP Queries     
+│   └── query(1,2,3,4,5,6,7,8,9)
 └── README.md
 ```
 
