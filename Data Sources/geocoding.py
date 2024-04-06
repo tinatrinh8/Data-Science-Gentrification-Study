@@ -66,4 +66,4 @@ def geocode(address_string):
 
 
 #example
-#print(geocode("121 DUNDAS ST WM5G"))
+#print(geocode("121 DUNDAS ST W M5G"))

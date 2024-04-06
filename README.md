@@ -25,35 +25,26 @@ Install the following libraries using pip:
 
 ```bash
 pip install pandas sqlalchemy requests Shapely json folium geopandas
-```
 
-### 📙 PostgreSQL Installation
-- **Windows**: Download and install from the [official PostgreSQL download page](https://www.postgresql.org/download/windows/).
-- **macOS**: Use Homebrew with `brew install postgresql`, or download from the [official page](https://www.postgresql.org/download/macosx/).
 
-### 🛩️ Database Setup
-1. Launch pgAdmin and connect to PostgreSQL.
-2. Create a new database named "main".
-3. Restore the database using the `database.backup` file from the project folder.
+For Windows:
+To work with the project's database, PostgreSQL must be installed on your machine. Visit the official PostgreSQL download page and download the Windows installer for PostgreSQL.
+For macOS:
+Open the terminal and run "brew install postgresql" or download the macOS installer from the official PostgreSQL download page.
 
-### 🌍 Geospatial Analysis Setup
-1. Sign up on Mapbox and generate a personal API key.
-2. Replace "YOUR API KEY" in the `mapbox_key.json` file with your generated API key.
+Restoring the database:
+Launch pgAdmin, which should have come included with the PostgreSQL installation.
+In the left sidebar, navigate to the "Servers" section and expand it. You should see "PostgreSQL 16". If prompted, enter your password to connect to the server.
+Right-click on "Databases," then select "Create" > "Database...".
+In the "Database" field, enter "main" as the name of the database.
+Click "Save" to create the database.
+Navigate to the newly created main database, right-click on it, and choose "Restore".
+In the "Restore Database" window, you'll need to specify the source file to restore from. Click the "..." button next to the "Filename" field to browse for the file.
+Navigate to the project folder where the database.backup file is located, select it, and click "Open".
+Once the file is selected, click "Restore" to begin the restoration process.
 
-### 🥃 Project Structure
-```plaintext
-.
-├── Data (CSV,JSON)         # Raw data and processed data
-├── Data Sources               
-│   ├── WardProfile.ipynb   # Jupyter notebooks for analysis
-│   ├── BuildingPermit.ipynb
-│   ├── geospatial_analysis.ipynb
-│   └── geocoding.py        # Source code
-├── mapbox_key.json         # Mapbox API key configuration
-├── queries       
-│   └── database.backup     # Database backup file
-├── Phase 3 - OLAP Queries     
-│   └── query(1,2,3,4,5,6,7,8,9)
-└── README.md
-```
+For the geospatial analysis:
+This part of the assignment uses the Mapbox API to make geocoding requests. As such, you need to sign up on Mapbox and generate a personal API key to run the program. 
+
+Once the API key is generated, you simply paste to replace the "YOUR API KEY" string in the mapbox_key.json file. From there, you can begin running the geospatial Jupyer Notebook to see the full analysis by pressing Run All in your respective IDE
 
