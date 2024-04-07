@@ -1,0 +1,103 @@
+Demolition_Key,IBMS Address,Address of Existing Rental Building,RH File Number,City Council Approval Date,Link to Staff Report,Type,Affordable Rental Homes for Demolition,Mid-Range Rental Homes for Demolition,High-End Rental Homes for Demolition,Affordable Rental Homes Replaced,Mid-Range Rental Homes Replaced,High-End Rental Homes Replaced,Coordinates,Approval_Date_Key
+1,75 Mutual St,"75, 77, 83 MUTUAL ST",14 183555 STE 27 RH,2017-01-31,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,0,21,1,0,POINT (-79.375132 43.656025),6330
+2,1996 Bathurst St,"1996, 1998 and 2000 Bathurst Street",15 270570 STE 21 RH,2017-03-09,Final Staff Report,Demolition - 6 Rental Units or More ,61,1,0,61,1,0,POINT (-79.4252 43.699129),6367
+3,125 Parliament St,125 Parliament Street and 50 Power Street,13 181698 STE 28 RH,2017-05-24,Final Staff Report,Demolition - 6 Rental Units or More ,12,3,0,12,3,0,POINT (-79.363566 43.654132),6443
+4,480 Yonge St,"3 Grosvenor Street (492-494 Yonge Street), 484-488 Yonge Street, 480-482 Yonge Street",14 267359 STE 27 RH,2017-05-24,Final Staff Report,Demolition - 6 Rental Units or More ,15,6,5,15,6,5,POINT (-79.383951 43.662533),6443
+5,30 Erskine Ave,30 Erskine Avenue,13 116882 NNY 25 RH,2017-07-04,Final Staff Report,Demolition - 6 Rental Units or More ,0,6,0,0,6,0,POINT (-79.398335 43.711542),6484
+6,59 Mutual St,"59, 63, 65, 67, 69 and 71 Mutual Street",16 101809 STE 27 RH,2017-07-04,Final Staff Report,Demolition - 6 Rental Units or More ,7,4,1,7,4,1,POINT (-79.374912 43.655658),6484
+7,703 Soudan Ave,"1674 Bayview Avenue, 703 and 707 Soudan Avenue, and 1680, 1682 and 1684 Bayview Avenue",14 227490 STE 22 RH,2017-07-04,Final Staff Report,Demolition - 6 Rental Units or More ,14,21,3,14,21,3,POINT (-79.376791 43.708431),6484
+8,40 Moccasin Trl,"50 and 60 Green Belt Drive, and 40 Moccasin Trail",13 173075 NNY 34 RH,2017-07-04,Final Staff Report,Demolition - 6 Rental Units or More ,59,24,0,43,24,0,POINT (-79.337043 43.730478),6484
+9,2525 Bathurst St,2525 Bathurst Street,16 152046 NNY 16 RH,2017-10-02,Final Staff Report,Demolition - 6 Rental Units or More ,6,26,1,6,26,1,POINT (-79.426107 43.706021),6574
+10,650 Kingston Rd,650-652 Kingston Road and 2 Main Street,15 215445 STE 32 RH,2017-11-07,Final Staff Report,Demolition - 6 Rental Units or More ,7,4,0,7,4,0,POINT (-79.298698 43.678956),6610
+11,263 Adelaide St W,263-267 Adelaide Stret West,12 152672 STE 20 RH,2017-11-07,Final Staff Report,Demolition - 6 Rental Units or More ,3,6,3,3,6,3,POINT (-79.38948 43.647842),6610
+12,85 Broadway Ave,"85, 87, 89 and 91 Broadway Avenue and 198 Redpath Avenue",16 262583 STE 22 RH,2018-01-31,Final Staff Report,Demolition - 6 Rental Units or More ,3,6,0,3,6,0,POINT (-79.394284 43.710305),6695
+13,289 The Kingsway,"291 The Kingsway and 1, 3, 5 and 7 St. Stevens Court",13 164266 WET 04 RH,2018-04-24,Final Staff Report,Demolition - 6 Rental Units or More ,108,48,0,108,48,0,POINT (-79.519539 43.663199),6778
+14,174 Broadway Ave,"174, 176, 178 and 180 Broadway Avenue",17 257562 NNY 25 RH,2018-07-23,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,8,0,0,8,POINT (-79.390748 43.711405),6868
+15,90 Eastdale Ave,2 Secord Avenue,15 226605 STE 31 RH,2018-07-23,Final Staff Report,Demolition - 6 Rental Units or More ,10,12,0,10,18,0,POINT (-79.30125 43.694611),6868
+16,65 Broadway Ave,55 and 65 Broadway Avenue,16 118650 STE 22 RH,2018-07-23,Final Staff Report,Demolition - 6 Rental Units or More ,25,105,0,25,105,0,POINT (-79.39528 43.709926),6868
+17,2978 Dundas St W,"2978-2980 (406-408 Pacific Avenue), 2984, and 2986 Dundas Street West ",16 137349 WET 13 RH,2018-07-23,Final Staff Report,Demolition - 6 Rental Units or More ,4,3,0,4,3,0,POINT (-79.468833 43.665752),6868
+18,871 Sheppard Ave W,"847, 849, 851, 853, 855, 857, 859, 861, 863, 865, 867, 869, 871 and 873 Sheppard Avenue West",17 107822 NNY 10 RH,2019-01-30,Final Staff Report,Demolition - 6 Rental Units or More ,5,2,0,5,2,0,POINT (-79.454563 43.751895),7059
+19,3636 Bathurst St,3636 Bathurst Street,14 226863 NNY 15 RH,2019-01-30,Final Staff Report,Demolition - 6 Rental Units or More ,2,4,0,2,4,0,POINT (-79.4333 43.732871),7059
+20,4125 Dundas St W,4125 & 4127-4129 Dundas Street West,16 110555 WET 05 RH,2019-02-26,Final Staff Report,Demolition - 6 Rental Units or More ,9,3,0,9,3,0,POINT (-79.506919 43.661561),7086
+21,77 Clarendon Ave,77 Clarendon Avenue,15 202796 STE 22 RH,2019-02-26,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,10,0,0,0,POINT (-79.406036 43.682365),7086
+22,545 Sherbourne St,"595 Sherbourne Street and 583, 591, 599 Sherbourne St",15 206979 STE 28 RH,2019-03-27,Final Staff Report,Demolition - 6 Rental Units or More ,20,4,0,20,4,0,POINT (-79.374836 43.668512),7115
+23,170 Spadina Ave,"3, 5 and 7 Cameron Street",16 118053 STE 20 RH,2019-05-14,Final Staff Report,Demolition - 6 Rental Units or More ,4,4,2,4,4,2,POINT (-79.396901 43.649122),7163
+24,470 Wilson Ave,470 and 490 Wilson Avenue,16 270452 NNY 10 RH,2019-05-14,Final Staff Report,Demolition - 6 Rental Units or More ,103,7,0,103,7,0,POINT (-79.444542 43.735588),7163
+26,877 College St,871 College Street and 899 College Street,17 196974 STE 19 RH,2019-06-18,Final Staff Report,Demolition - 6 Rental Units or More ,12,1,0,12,1,0,POINT (-79.424512 43.653893),7198
+27,2779 Yonge St,2779 Yonge Street and 15-17 and 19-21 Strathgowan Avenue,13 134038 NNY 25 RH,2019-07-16,Final Staff Report,Demolition - 6 Rental Units or More ,6,22,0,6,22,0,POINT (-79.400421 43.718581),7226
+29,55 Charles St E,55 and 61-63 Charles Street East,18 144572 STE 27 RH,2019-07-16,Final Staff Report,Demolition - 6 Rental Units or More ,3,97,0,3,97,0,POINT (-79.383532 43.668901),7226
+30,11 Yorkville Ave,"11 Yorkville Avenue, 17, 19, 21-25 Yorkville Avenue",18 135378 STE 27 RH,2019-07-16,Final Staff Report,Demolition - 6 Rental Units or More ,5,76,0,25,56,0,POINT (-79.38825 43.671602),7226
+31,700 Spadina Ave,698 and 700 Spadina Avenue,16 240238 STE 20 RH,2019-07-16,Final Staff Report,Demolition - 6 Rental Units or More ,4,2,0,4,2,0,POINT (-79.403216 43.664762),7226
+32,75 Broadway Ave,75 Broadway Avenue,17 150328 STE 22 RH,2019-07-16,Final Staff Report,Demolition - 6 Rental Units or More ,0,10,10,0,10,10,POINT (-79.39461 43.70996),7226
+33,100 Broadway Ave,"100 Broadway Avenue, 231-233 Redpath Avenue, 227-229 Redpath Avenue, 223-225 Redpath Avenue",15 231391 NNY 25 RH,2019-10-02,Final Staff Report,Demolition - 6 Rental Units or More ,10,54,0,10,54,0,POINT (-79.393659 43.710891),7304
+34,227 Redpath Ave,"100 Broadway Avenue, 231-233 Redpath Avenue, 227-229 Redpath Avenue, 223-225 Redpath Avenue",19 142275 NNY 15 RH,2019-10-02,Final Staff Report,Demolition - 6 Rental Units or More,0,0,0,0,0,0,POINT (-79.393779 43.711147),7304
+35,117 Broadway Ave,117 and 127 Broadway Avenue,15 233435 STE 22 RH,2019-10-29,Final Staff Report,Demolition - 6 Rental Units or More ,72,58,1,72,58,1,POINT (-79.392669 43.710448),7331
+36,110 Broadway Ave,"110 Broadway Avenue, 120 Broadway Avenue, and 114 Broadway Avenue",17 218856 NNY 25 RH,2019-10-29,Final Staff Report,Demolition - 6 Rental Units or More ,68,53,0,68,53,0,POINT (-79.3932 43.710969),7331
+37,1408 Bayview Ave,1408 Bayview Avenue,19 120017 NNY 15 RH,2020-01-29,Final Staff Report,Demolition - 6 Rental Units or More ,4,7,2,4,7,2,POINT (-79.3738 43.701303),7423
+38,507 King St E,507 King Street East,19 252075 STE 13 RH,2020-02-07,Final Staff Report,Demolition - 6 Rental Units or More ,1,6,5,0,0,0,POINT (-79.359159 43.654658),7432
+39,980 Bloor St W,"980, 984, 986, and 990 Bloor Street West",17 207632 STE 09 RH,2020-06-29,Final Staff Report,Demolition - 6 Rental Units or More ,7,1,0,7,1,0,POINT (-79.429684 43.661304),7575
+40,101 Lawton Blvd,101 Lawton Boulevard,20 121854 STE 12 RH,2020-07-28,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,8,0,0,4,POINT (-79.396747 43.693705),7604
+41,1555 Queen St E,1555 and 1575 Queen Street East,19 262224 STE 14 RH,2020-07-28,Final Staff Report,Demolition - 6 Rental Units or More - Social Housing,120,0,0,120,0,0,POINT (-79.318758 43.665653),7604
+42,75 Garthdale Crt,75 & 77 Garthdale Court,19 249665 NNY 06 RH,2020-07-28,Final Staff Report,Severance - 6 Rental Units or More,0,0,6,0,0,0,POINT (-79.46449 43.764641),7604
+43,523 Rogers Rd,523 Rogers Road,19 244273 WET 05 RH,2020-07-28,Final Staff Report,Demolition - 6 Rental Units or More ,3,2,0,0,0,4,POINT (-79.468928 43.682079),7604
+44,64 Bathurst St,64-66 Bathurst Street & 82 Bathurst Street,18 176824 STE 19 RH,2020-09-30,Final Staff Report,Demolition - 6 Rental Units or More ,2,3,2,3,3,2,POINT (-79.402541 43.642711),7668
+45,2100 Yonge St,2106 Yonge Street & 8 Manor Road,18 178163 STE 22 RH,2020-10-27,Final Staff Report,Demolition - 6 Rental Units or More ,0,6,1,0,6,1,POINT (-79.39786 43.702639),7695
+46,265 Balliol St,"239, 241, 243, 245, 247, 249, and 251 Balliol Street",17 224019 STE 22 RH,2020-10-27,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,7,0,0,0,POINT (-79.387811 43.698777),7695
+47,136 Kingston Rd,136 Kingston Road,19 219751 STE 19 RH,2020-12-16,Final Staff Report,Demolition - 6 Rental Units or More - Social Housing,12,0,0,12,0,0,POINT (-79.311626 43.670725),7745
+48,1637 Bathurst St,"1637, 1639, 1641, 1643 and 1645 Bathurst Street",18 182198 STE 21 RH,2020-12-16,Final Staff Report,Demolition - 6 Rental Units or More ,3,14,8,4,15,8,POINT (-79.421755 43.692618),7745
+49,58 Stewart St,58-60 Stewart Street,16 270246 STE 20 RH,2021-03-10,Final Staff Report,Demolition - 6 Rental Units or More ,2,2,3,2,2,3,POINT (-79.401936 43.643476),7829
+50,2946 Dundas St W,"2946, 2948, 2950 and 2952 Dundas Street West",19 124759 STE 04 RH,2021-03-10,Final Staff Report,Demolition - 6 Rental Units or More ,8,0,0,8,0,0,POINT (-79.467692 43.665609),7829
+51,1693 Weston Rd,1693 and 1705-1707 Weston Road,20 171964 WET 05 RH,2021-06-08,Final Staff Report,Demolition - 6 Rental Units or More ,15,0,0,15,0,0,POINT (-79.509262 43.69748),7919
+52,685 Queen St E,685 Queen Street East,20 232691 STE 14 RH,2021-07-14,Final Staff Report,Demolition - 6 Rental Units or More - Social Housing,9,0,0,9,0,0,POINT (-79.350554 43.658561),7955
+53,245 Queen St E,263-265 Queen Street East and 90 Ontario Street,17 160339 STE 28 RH,2021-07-14,Final Staff Report,Demolition - 6 Rental Units or More ,5,29,23,22,24,24,POINT (-79.368555 43.65447),7955
+54,1886 Eglinton Ave W,"1894, 1898 to 1908, 1914 to 1918, and 1920 Eglinton Avenue West",20 198558 NNY 08 RH,2021-10-01,Final Staff Report,Demolition - 6 Rental Units or More ,10,0,0,10,0,0,POINT (-79.451877 43.695653),8034
+55,3 Marsh Grassway,"3 and 36 Marsh Grassway, 7 and 11 Blue Grassway, 1, 2 and 8 Dune Grassway, 4 and 17 Cane Grassway and 5, 10 and 40 Turf Grassway",20 141389 WET 07 RH,2021-10-01,Final Staff Report,Demolition - 6 Rental Units or More - Social Housing,236,0,0,236,0,0,POINT (-79.518213 43.75043),8034
+56,230 Carlton St,230-232 Carlton Street and 33 & 39 Aberdeen Avenue,20 233836 STE 13 RH,2021-11-24,Final Staff Report,Severance - 6 Rental Units or More - Social Housing,0,0,0,0,0,0,POINT (-79.369145 43.66428),8088
+57,2448 Kingston Rd,"2446A, 2448-2450 Kingston Road",20 222609 ESC 20 RH,2021-12-15,Final Staff Report,Demolition - 6 Rental Units or More ,10,0,0,10,0,0,POINT (-79.249514 43.709657),8109
+58,83 River St,83-97 River Street,17 162769 STE 28 RH,2022-03-09,Final Staff Report,Demolition - 6 Rental Units or More ,4,1,2,4,1,2,POINT (-79.357363 43.65993),8193
+59,161 Parliament St,"161 Parliament Street and 90, 92, and 94 Power Street",18 136700 STE 28 RH,2022-03-09,Final Staff Report,Demolition - 6 Rental Units or More ,2,6,0,2,6,0,POINT (-79.363988 43.654994),8193
+60,155 Balliol St,95-131 Balliol Street,18 173492 STE 22 RH,2022-03-09,Final Staff Report,Demolition - 6 Rental Units or More ,0,8,11,0,8,11,POINT (-79.392133 43.697965),8193
+61,287 Davenport Rd,"141, 143 and 145 Bedford Road",19 244085 STE 11 RH,2022-03-09,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,6,0,0,0,POINT (-79.399397 43.674167),8193
+62,824 Sheppard Avenue West,824 Sheppard Ave W & 179 Cocksfield Avenue,20 205924 NNY 06 RH,2022-04-06,Final Staff Report,Demolition - 6 Rental Units or More ,15,0,0,15,0,0,POINT (-79.45125 43.753264),8221
+63,35 High Park Ave,"35, 41-63 and 95 High Park, 66 and 102-116 Pacific Avenue",16 271601 WET 13 RH,2022-06-15,Final Staff Report,Demolition - 6 Rental Units or More ,0,0,20,0,0,0,POINT (-79.465285 43.654726),8291
+64,109 Erskine Ave,109 Erskine Avenue,20 208291 NNY 15 RH,2022-06-15,Final Staff Report,Demolition - 6 Rental Units or More ,15,17,1,15,17,1,POINT (-79.394804 43.711643),8291
+65,515 Chaplin Cres,515 and 525 Chaplin Crescent,10 121754 NNY 00 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,7,2,0,7,2,0,POINT (-79.424252 43.704961),8325
+66,58 Atlantic Ave,"25 & 35 Liberty Street, 51, 61 & 65 Jefferson Avenue",15 130397 STE 14 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,1,13,28,4,15,31,POINT (-79.420829 43.638051),8325
+67,314 Bogert Ave,"314, 315, 316, 317 and 325 Bogert Avenue",17 139152 NNY 23 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,165,114,0,165,114,0,POINT (-79.425724 43.757631),8325
+68,7 Heath St E,"7 Heath Street East, 25-29 Health Street, 36 Alvin Avenue",19 134877 STE 12 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,17,18,1,21,18,1,POINT (-79.393932 43.6899),8325
+69,1540 Bloor St W,1540-1548 Bloor Street West,19 263430 STE 04 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,12,0,0,12,0,0,POINT (-79.452935 43.656428),8325
+70,241 Redpath Ave,241 Redpath Avenue,20 151708 NNY 15 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,30,16,0,30,16,0,POINT (-79.393869 43.711492),8325
+71,65 Silver Springs Blvd,"87, 89, 91, 93, 95, 97, and 99 Silver Springs Boulevard",20 164711 ESC 22 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,45,0,11,45,0,11,POINT (-79.304238 43.801321),8325
+72,1801 Eglinton Ave W,1801-1807 Eglinton Avenue WestÂ ,20 170679 STE 12 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,30,17,0,30,17,0,POINT (-79.449022 43.695765),8325
+73,334 Bloor St W,334 Bloor Street West and 2 Spadina Road,20 192558 STE 11 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,15,9,0,15,9,0,POINT (-79.404253 43.666839),8325
+74,2674 Yonge Street,"2674, 2676, and 2678 Yonge Street",20 194151 NNY 08 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,19,12,0,19,12,0,POINT (-79.400694 43.7168),8325
+75,71 Talara Dr,71 Talara Drive,21 113723 NNY 17 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,18,11,0,18,11,0,POINT (-79.379419 43.765627),8325
+76,316 Campbell Ave,"316, 318, 332, and 336 Campbell Avenue",21 138112 STE 09 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,6,3,0,6,3,0,POINT (-79.4505 43.666244),8325
+77,2808 Keele Street,2808 and 2810 Keele Street,21 138298 NNY 06 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,48,6,0,48,6,0,POINT (-79.46454 43.665407),8325
+78,1423 Bloor St W,1423-1437 Bloor Street West,21 139673 STE 09 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,13,4,0,13,4,0,POINT (-79.448048 43.657036),8325
+79,40 Raglan Ave,40 Raglan Avenue,21 212466 STE 12 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,51,11,0,51,11,0,POINT (-79.420392 43.684203),8325
+80,8 Locust St,8 and 12 Locust Street ,20 113222 WET 05 RH,2022-07-19,Final Staff Report,Demolition - 6 Rental Units or More ,6,0,0,6,0,0,POINT (-79.490708 43.688193),8325
+81,621 Richmond Street West,621-627 Richmond Street West and 152-164 Bathurst Street,21 181261 STE 10 RH,2023-05-10,Final Report,Demolition - 6 Rental Units or More ,0,0,12,0,0,0,POINT (-79.404008 43.646261),8620
+82,25 St. Mary Street,25 St. Mary Street,21 166617 STE 13 RH,2023-05-10,Final Report,Demolition - 6 Rental Units or More ,25,234,0,25,234,0,POINT (-79.387154 43.667339),8620
+83,1625 Kingston Road,"1625, 1633, 1641 Kingston Road and 52 Birchcliff Avenue",20 203480 ESC 20 RH,2023-02-07,Final Report,Demolition - 6 Rental Units or More ,32,1,0,32,1,0,POINT (-79.265396 43.690838),8528
+84,16 Cosburn Avenue,"16, 20 and 26 Cosburn Avenue",22 139212 STE 14 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,27,3,0,27,3,0,POINT (-79.354458 43.688603),8690
+85,510 Yonge Street,510-528 Yonge Street and 7 Breadalbane Street,20 207360 STE 13 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,6,11,2,6,11,2,POINT (-79.384183 43.663429),8690
+86,64 Wellesley Street East,"64-66 Wellesley Street East, 552-560 Church Street and 564-570 Church Street",21 235906 STE 13 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,51,14,0,51,14,0,POINT (-79.38181 43.66591),8690
+87,88 Isabella Street,88 Isabella Street,22 138559 STE 13 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,5,77,0,5,77,0,POINT (-79.381349 43.668734),8690
+88,325 Gerrard Street East,325 Gerrard Street East (Regent Park Phases 4 and 5),22 136078 STE 13 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,527,0,0,633,0,0,POINT (-79.365509 43.66211),8690
+89,1404 Yonge Street,1404 and 1408 Yonge,22 211116 STE 12 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,8,0,0,8,0,0,POINT (-79.39378 43.686688),8690
+90,775 Vaughan Road,775-783 Vaughan Road and 680-690 Northcliffe Boulevard,22 186339 STE 12 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,5,8,1,7,8,1,POINT (-79.447368 43.695008),8690
+91,170 Roehampton Avenue,170 Roehampton Avenue,22 166423 STE 12 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,5,9,1,5,9,1,POINT (-79.393844 43.709291),8690
+92,632 Northcliffe Boulevard,632-652 Northcliffe Boulevard,22 218880 STE 12 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,8,1,0,10,1,0,POINT (-79.447371 43.693894),8690
+93,45 Balliol Street,57-93 Balliol Street,21 235317 STE 12 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,1,8,10,1,8,10,POINT (-79.394997 43.69736),8690
+94,145 St. George Street,145 St. George Street,21 155940 STE 11 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,49,81,0,61,81,0,POINT (-79.399846 43.669089),8690
+95,2328 Kingston Road,2328 to 2350 Kingston Road,22 136031 ESC 20 RH,2023-07-19,Final Report,Demolition - 6 Rental Units or More ,5,2,0,5,2,0,POINT (-79.25155 43.706677),8690
+96,5 Cosburn Avenue,5-19 Cosburn Ave and 8-40 Gowan Ave,20 232889 STE 14 RH,2023-10-11,Final Report,Demolition - 6 Rental Units or More ,5,1,0,5,1,0,POINT (-79.354569 43.688213),8774
+97,77 Roehampton Avenue,77 Roehampton Avenue,22 139087 STE 12 RH,2023-10-11,Final Report,Demolition - 6 Rental Units or More ,57,24,0,57,24,0,POINT (-79.396164 43.708144),8774
+98,2 Temple Avenue,2-24 Temple Avenue,21 105909 STE 04 RH,2023-10-11,Final Report,Demolition - 6 Rental Units or More ,14,3,6,14,3,6,POINT (-79.426595 43.636521),8774
+99,124 Broadway Avenue,124 Broadway Avenue,21 169468 NNY 15 RH,2023-10-11,Final Report,Demolition - 6 Rental Units or More ,80,6,0,80,6,0,POINT (-79.392509 43.711373),8774
+100,1303 Queen Street West,"1303, 1313, 1325, 1337, 1345 Queen Street West and 212, 220, 224 Cowan Avenue",23 107855 STE 04 RH,2023-11-08,Final Report,Demolition - 6 Rental Units or More ,9,0,0,9,0,0,POINT (-79.432651 43.641151),8802
+101,48 Grenoble Drive,48 Grenoble Drive,22 127161 NNY 16 RH,2023-11-08,Final Report,Demolition - 6 Rental Units or More ,81,28,0,82,28,0,POINT (-79.331311 43.716772),8802
+102,383 Sherbourne Street,383 and 387 Sherbourne Street,21 189637 STE 13 RH,2023-12-13,Final Report,Demolition - 6 Rental Units or More ,27,0,17,27,0,17,POINT (-79.37301 43.663968),8837
+103,2 Oakburn Crescent,2 - 12 Oakburn Crescent,23 124230 NNY 18 RH,2023-12-13,Final Report,Demolition - 6 Rental Units or More ,0,0,0,0,0,0,POINT (-79.405392 43.758634),8837
+104,1240 Weston Rd,1240 - 1250 Weston Rd,22 198769 WET 05 RH,2023-12-13,Final Report,Demolition - 6 Rental Units or More ,20,0,0,20,0,0,POINT (-79.493471 43.688081),8837
