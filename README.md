@@ -3,7 +3,7 @@
 ## 🪄 Phase 2: Physical Design and Data Staging 🪄
 
 ### 🚴🏻‍♀️ Overview
-This project is a part of the coursework for CSI4142 at the University of Ottawa. In our research, our focus is on analyzing gentrification across different Toronto neighborhoods by examining contributing factors and finding correlations. The study involves analyzing data related to Age, Education, Ward, Income, Household, Building Permit, Ethnocultural, Employment, Shelter, and Industry to determine their relationship with high and low gentrification levels.
+This project is a part of the coursework for CSI4142 at the University of Ottawa. In our research, our focus is on analyzing gentrification across different Toronto neighborhoods by examining contributing factors and finding correlations. The study involves analyzing data related to Age, Education, Demolition, Ward, Income, Household, Building Permit, Ethnocultural, Employment, Shelter, and Industry to determine their relationship with high and low gentrification levels.
 
 ### 🥨 Team Members
 - Serena Iyoha - 300187757
