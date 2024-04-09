@@ -54,3 +54,15 @@ pip install pandas sqlalchemy requests Shapely json folium geopandas
 - Execute all cells in the notebook to run the analysis.
 
 **Note:** Ensure to update any placeholder text with actual data and file paths specific to your setup.
+
+## 🧝🏻‍♀️ Phase 4: Data Mining 🧝🏻‍♀️
+
+### 🍨 Overview
+In Phase 4, we apply data mining techniques to analyze gentrification trends across Toronto neighborhoods. Our focus is to draw correlations from demographic and urban data variables. This is found in 'Phase4' file.
+
+### 🛤️  Data Summarization and Preprocessing
+- Visualizations (scatter plots, boxplots, histograms) provide a preliminary understanding of our data.
+- Preprocessing tasks include imputation for missing values, one-hot encoding for categorical variables, normalization of numerical attributes, and diligent feature selection to streamline our dataset.
+
+### 🛁  Outlier Detection (Bonus)
+- Employing the one-class SVM algorithm, we pinpoint global outliers and interpret their significance within our dataset.
