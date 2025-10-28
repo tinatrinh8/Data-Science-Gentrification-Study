@@ -1,6 +1,6 @@
 # Toronto Ward Gentrification Study 🥭🌠🕰️🍄🎨
 
-## 🪄 Phase 2: Physical Design and Data Staging 🪄
+## 🪄 Physical Design and Data Staging 🪄
 
 ### 🚴🏻‍♀️ Overview
 In our research, our focus is on analyzing gentrification across different Toronto neighborhoods by examining contributing factors and finding correlations. The study involves analyzing data related to Age, Education, Demolition, Ward, Income, Household, Building Permit, Ethnocultural, Employment, Shelter, and Industry to determine their relationship with high and low gentrification levels.
@@ -55,10 +55,10 @@ pip install pandas sqlalchemy requests Shapely json folium geopandas
 
 **Note:** Ensure to update any placeholder text with actual data and file paths specific to your setup.
 
-## 🧝🏻‍♀️ Phase 4: Data Mining 🧝🏻‍♀️
+## 🧝🏻‍♀️ Data Mining 🧝🏻‍♀️
 
 ### 🍨 Overview
-In Phase 4, we apply data mining techniques to analyze gentrification trends across Toronto neighborhoods. Our focus is to draw correlations from demographic and urban data variables. This is found in 'Phase4' file.
+In this phase, we apply data mining techniques to analyze gentrification trends across Toronto neighborhoods. Our focus is to draw correlations from demographic and urban data variables. This is found in 'Phase4' file.
 
 ### 🛤️  Data Summarization and Preprocessing
 - Visualizations (scatter plots, boxplots, histograms) provide a preliminary understanding of our data.
